@@ -1,0 +1,2881 @@
+[
+  {
+    "id": "5509-Roanwood,-San-Antonio,-TX-78244",
+    "formattedAddress": "5509 Roanwood, San Antonio, TX 78244",
+    "addressLine1": "5509 Roanwood",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477359,
+    "longitude": -98.349687,
+    "propertyType": "Multi-Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1973,
+    "yearBuilt": 1985
+  },
+  {
+    "id": "5528-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5528 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5528 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477808,
+    "longitude": -98.350542,
+    "propertyType": "Single Family",
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "squareFootage": 912
+  },
+  {
+    "id": "5523-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",
+    "formattedAddress": "5523 Lochmoor, Apt 2, San Antonio, TX 78244",
+    "addressLine1": "5523 Lochmoor",
+    "addressLine2": "Apt 2",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477526,
+    "longitude": -98.350809,
+    "propertyType": "Multi-Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 800,
+    "lotSize": 8756,
+    "yearBuilt": 1984,
+    "features": {
+      "floorCount": 1
+    }
+  },
+  {
+    "id": "5721-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5721 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5721 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.479965,
+    "longitude": -98.350807,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2
+  },
+  {
+    "id": "5519-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",
+    "formattedAddress": "5519 Lochmoor, Apt 2, San Antonio, TX 78244",
+    "addressLine1": "5519 Lochmoor",
+    "addressLine2": "Apt 2",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.47746,
+    "longitude": -98.350786,
+    "propertyType": "Multi-Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 800,
+    "lotSize": 8712,
+    "yearBuilt": 1984
+  },
+  {
+    "id": "5527-Lochmoor,---2,-San-Antonio,-TX-78244",
+    "formattedAddress": "5527 Lochmoor, # 2, San Antonio, TX 78244",
+    "addressLine1": "5527 Lochmoor",
+    "addressLine2": "# 2",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.47776,
+    "longitude": -98.350808
+  },
+  {
+    "id": "5520-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5520 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5520 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477456,
+    "longitude": -98.350543,
+    "propertyType": "Single Family",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 983
+  },
+  {
+    "id": "5512-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5512 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5512 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477105,
+    "longitude": -98.350544,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 970,
+    "lotSize": 7144,
+    "yearBuilt": 1985
+  },
+  {
+    "id": "5516-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5516 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5516 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477293,
+    "longitude": -98.350543,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 850
+  },
+  {
+    "id": "5511-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",
+    "formattedAddress": "5511 Lochmoor, Apt 2, San Antonio, TX 78244",
+    "addressLine1": "5511 Lochmoor",
+    "addressLine2": "Apt 2",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.4769,
+    "longitude": -98.350809,
+    "propertyType": "Single Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 800,
+    "lotSize": 8712,
+    "features": {
+      "floorCount": 1
+    }
+  },
+  {
+    "id": "5705-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5705 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5705 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477,
+    "longitude": -98.350546
+  },
+  {
+    "id": "7002-Atherton,-San-Antonio,-TX-78244",
+    "formattedAddress": "7002 Atherton, San Antonio, TX 78244",
+    "addressLine1": "7002 Atherton",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476766,
+    "longitude": -98.350547
+  },
+  {
+    "id": "5713-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5713 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5713 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476895,
+    "longitude": -98.350546
+  },
+  {
+    "id": "7024-Atherton,-San-Antonio,-TX-78244",
+    "formattedAddress": "7024 Atherton, San Antonio, TX 78244",
+    "addressLine1": "7024 Atherton",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476968,
+    "longitude": -98.349631
+  },
+  {
+    "id": "5310-Lake,-Golden,-San-Antonio,-TX-78244",
+    "formattedAddress": "5310 Lake, Golden, San Antonio, TX 78244",
+    "addressLine1": "5310 Lake",
+    "addressLine2": "Golden",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.474259,
+    "longitude": -98.351379,
+    "propertyType": "Single Family",
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "squareFootage": 1200,
+    "lotSize": 6780,
+    "yearBuilt": 1986,
+    "assessorID": "05080-506-0100",
+    "legalDescription": "CB 5080E BLK 6 LOT 10 WOODLAKE PARK UT-2",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Wood",
+      "fireplace": true,
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 1,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2015": {
+        "year": 2015,
+        "value": 81094,
+        "land": null,
+        "improvements": null
+      },
+      "2016": {
+        "year": 2016,
+        "value": 89203,
+        "land": null,
+        "improvements": null
+      },
+      "2017": {
+        "year": 2017,
+        "value": 98123,
+        "land": null,
+        "improvements": null
+      },
+      "2018": {
+        "year": 2018,
+        "value": 107000,
+        "land": 17430,
+        "improvements": 89570
+      },
+      "2019": {
+        "year": 2019,
+        "value": 117700,
+        "land": null,
+        "improvements": null
+      },
+      "2020": {
+        "year": 2020,
+        "value": 126000,
+        "land": 21780,
+        "improvements": 104220
+      },
+      "2021": {
+        "year": 2021,
+        "value": 138600,
+        "land": null,
+        "improvements": null
+      },
+      "2022": {
+        "year": 2022,
+        "value": 152460,
+        "land": null,
+        "improvements": null
+      },
+      "2023": {
+        "year": 2023,
+        "value": 167706,
+        "land": null,
+        "improvements": null
+      },
+      "2024": {
+        "year": 2024,
+        "value": 189750,
+        "land": 51730,
+        "improvements": 138020
+      }
+    },
+    "propertyTaxes": {
+      "2015": {
+        "year": 2015,
+        "total": 1846
+      },
+      "2016": {
+        "year": 2016,
+        "total": 2070
+      },
+      "2017": {
+        "year": 2017,
+        "total": 2229
+      },
+      "2018": {
+        "year": 2018,
+        "total": 2445
+      },
+      "2019": {
+        "year": 2019,
+        "total": 2593
+      },
+      "2020": {
+        "year": 2020,
+        "total": 2671
+      },
+      "2021": {
+        "year": 2021,
+        "total": 2929
+      },
+      "2022": {
+        "year": 2022,
+        "total": 3146
+      },
+      "2023": {
+        "year": 2023,
+        "total": 778
+      },
+      "2024": {
+        "year": 2024,
+        "total": 3464
+      }
+    },
+    "owner": {
+      "names": [
+        "Robert A Carey",
+        "Gayle Carey"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "5310-Lake,-GOLDEN,-San-Antonio,-TX-78244",
+        "formattedAddress": "5310 Lake, GOLDEN, San Antonio, TX 78244",
+        "addressLine1": "5310 Lake",
+        "addressLine2": "GOLDEN",
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "5523-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",
+    "formattedAddress": "5523 Lochmoor, Apt 1, San Antonio, TX 78244",
+    "addressLine1": "5523 Lochmoor",
+    "addressLine2": "Apt 1",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477526,
+    "longitude": -98.350809,
+    "propertyType": "Multi-Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 800,
+    "lotSize": 8756,
+    "yearBuilt": 1984
+  },
+  {
+    "id": "5322-Shadow-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "5322 Shadow Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "5322 Shadow Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.474965,
+    "longitude": -98.352755,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "squareFootage": 1063,
+    "lotSize": 7440,
+    "yearBuilt": 1972,
+    "assessorID": "05076-111-0060",
+    "legalDescription": "CB 5076A BLK 11 LOT 6",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Stucco",
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 1,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 87714,
+        "land": 17860,
+        "improvements": 72500
+      },
+      "2019": {
+        "year": 2019,
+        "value": 88000,
+        "land": 22320,
+        "improvements": 65680
+      },
+      "2020": {
+        "year": 2020,
+        "value": 96800,
+        "land": 22320,
+        "improvements": 79930
+      },
+      "2022": {
+        "year": 2022,
+        "value": 143430,
+        "land": 45530,
+        "improvements": 97900
+      },
+      "2023": {
+        "year": 2023,
+        "value": 164220,
+        "land": 54610,
+        "improvements": 109610
+      },
+      "2024": {
+        "year": 2024,
+        "value": 162520,
+        "land": 54610,
+        "improvements": 107910
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 668
+      },
+      "2021": {
+        "year": 2021,
+        "total": 741
+      },
+      "2022": {
+        "year": 2022,
+        "total": 727
+      },
+      "2023": {
+        "year": 2023,
+        "total": 476
+      }
+    },
+    "owner": {
+      "names": [
+        "Maria Schaefer"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "5322-Shadow-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "5322 Shadow Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "5322 Shadow Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "5403-Park-Lk,-San-Antonio,-TX-78244",
+    "formattedAddress": "5403 Park Lk, San Antonio, TX 78244",
+    "addressLine1": "5403 Park Lk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.475701,
+    "longitude": -98.349207,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "squareFootage": 1851,
+    "lotSize": 14119,
+    "yearBuilt": 1985,
+    "assessorID": "05080-501-0120",
+    "legalDescription": "CB 5080E BLK 1 LOT 12 WOODLAKE PARK UT-1",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Wood",
+      "fireplace": true,
+      "floorCount": 2,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 1,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 146396,
+        "land": 22030,
+        "improvements": 130360
+      },
+      "2019": {
+        "year": 2019,
+        "value": 161036,
+        "land": 27530,
+        "improvements": 134490
+      },
+      "2020": {
+        "year": 2020,
+        "value": 170640,
+        "land": 27530,
+        "improvements": 143110
+      },
+      "2021": {
+        "year": 2021,
+        "value": 187704,
+        "land": 55770,
+        "improvements": 141700
+      },
+      "2022": {
+        "year": 2022,
+        "value": 228290,
+        "land": 61420,
+        "improvements": 166870
+      },
+      "2023": {
+        "year": 2023,
+        "value": 260220,
+        "land": 73560,
+        "improvements": 186660
+      },
+      "2024": {
+        "year": 2024,
+        "value": 257330,
+        "land": 73560,
+        "improvements": 183770
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 1655
+      },
+      "2021": {
+        "year": 2021,
+        "total": 1761
+      },
+      "2022": {
+        "year": 2022,
+        "total": 1778
+      },
+      "2023": {
+        "year": 2023,
+        "total": 1026
+      }
+    },
+    "owner": {
+      "names": [
+        "Nancy C Bentley"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "5403-Park-Lk,-San-Antonio,-TX-78244",
+        "formattedAddress": "5403 Park Lk, San Antonio, TX 78244",
+        "addressLine1": "5403 Park Lk",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6830-Blue-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6830 Blue Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6830 Blue Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.475708,
+    "longitude": -98.353449,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1039,
+    "lotSize": 6600,
+    "yearBuilt": 1972,
+    "assessorID": "05076-110-0070",
+    "legalDescription": "CB 5076A BLK 10 LOT 7",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Wood",
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Metal",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 90574,
+        "land": 17360,
+        "improvements": 76130
+      },
+      "2019": {
+        "year": 2019,
+        "value": 100410,
+        "land": 21700,
+        "improvements": 78710
+      },
+      "2020": {
+        "year": 2020,
+        "value": 105450,
+        "land": 21700,
+        "improvements": 83750
+      },
+      "2021": {
+        "year": 2021,
+        "value": 121340,
+        "land": 38540,
+        "improvements": 82800
+      },
+      "2022": {
+        "year": 2022,
+        "value": 138000,
+        "land": 42440,
+        "improvements": 95560
+      },
+      "2023": {
+        "year": 2023,
+        "value": 165390,
+        "land": 50890,
+        "improvements": 114500
+      },
+      "2024": {
+        "year": 2024,
+        "value": 163620,
+        "land": 50890,
+        "improvements": 112730
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 2226
+      },
+      "2021": {
+        "year": 2021,
+        "total": 2578
+      },
+      "2022": {
+        "year": 2022,
+        "total": 2861
+      },
+      "2023": {
+        "year": 2023,
+        "total": 2886
+      }
+    },
+    "owner": {
+      "names": [
+        "Juan M Flores",
+        "Laura S Flores"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "8711-Anton-Schumann-Dr,-Converse,-TX-78109",
+        "formattedAddress": "8711 Anton Schumann Dr, Converse, TX 78109",
+        "addressLine1": "8711 Anton Schumann Dr",
+        "addressLine2": null,
+        "city": "Converse",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78109"
+      }
+    },
+    "ownerOccupied": false
+  },
+  {
+    "id": "6826-Blue-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6826 Blue Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6826 Blue Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.475714,
+    "longitude": -98.353626,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "squareFootage": 1140,
+    "lotSize": 9350,
+    "yearBuilt": 1972,
+    "assessorID": "05076-110-0060",
+    "legalDescription": "CB 5076A BLK 10 LOT 6",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Wood",
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Mixed",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 68002,
+        "land": 19070,
+        "improvements": 51470
+      },
+      "2019": {
+        "year": 2019,
+        "value": 74802,
+        "land": 23840,
+        "improvements": 59020
+      },
+      "2020": {
+        "year": 2020,
+        "value": 82282,
+        "land": 23840,
+        "improvements": 62800
+      },
+      "2022": {
+        "year": 2022,
+        "value": 131590,
+        "land": 50580,
+        "improvements": 81010
+      },
+      "2023": {
+        "year": 2023,
+        "value": 150950,
+        "land": 60680,
+        "improvements": 90270
+      },
+      "2024": {
+        "year": 2024,
+        "value": 149560,
+        "land": 60680,
+        "improvements": 88880
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 287
+      },
+      "2021": {
+        "year": 2021,
+        "total": 349
+      },
+      "2022": {
+        "year": 2022,
+        "total": 329
+      },
+      "2023": {
+        "year": 2023,
+        "total": 347
+      }
+    },
+    "owner": {
+      "names": [
+        "Richard Elwood Webb"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6826-Blue-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "6826 Blue Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "6826 Blue Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "5602-Crater-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "5602 Crater Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "5602 Crater Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.478096,
+    "longitude": -98.351129,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 1780,
+    "lotSize": 5848,
+    "yearBuilt": 1974,
+    "assessorID": "05076-103-0260",
+    "legalDescription": "CB 5076A BLK 3 LOT 26",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Combination",
+      "floorCount": 2,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Roll Tar & Gravel",
+      "roomCount": 7,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 124058,
+        "land": 16850,
+        "improvements": 112400
+      },
+      "2019": {
+        "year": 2019,
+        "value": 136464,
+        "land": 21060,
+        "improvements": 116390
+      },
+      "2020": {
+        "year": 2020,
+        "value": 144910,
+        "land": 21060,
+        "improvements": 123850
+      },
+      "2022": {
+        "year": 2022,
+        "value": 190350,
+        "land": 39240,
+        "improvements": 151110
+      },
+      "2023": {
+        "year": 2023,
+        "value": 216110,
+        "land": 47070,
+        "improvements": 169040
+      },
+      "2024": {
+        "year": 2024,
+        "value": 213490,
+        "land": 47070,
+        "improvements": 166420
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 2179
+      },
+      "2021": {
+        "year": 2021,
+        "total": 2266
+      },
+      "2022": {
+        "year": 2022,
+        "total": 2266
+      },
+      "2023": {
+        "year": 2023,
+        "total": 1046
+      }
+    },
+    "owner": {
+      "names": [
+        "Olufemi Odukoya",
+        "Mary L Odukoya"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "5602-Crater-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "5602 Crater Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "5602 Crater Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6903-Twin-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6903 Twin Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6903 Twin Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476907,
+    "longitude": -98.352109,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1346,
+    "lotSize": 8470,
+    "yearBuilt": 1973,
+    "assessorID": "05076-105-0170",
+    "legalDescription": "CB 5076A BLK 5 LOT 17",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Wood",
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 108141,
+        "land": 18550,
+        "improvements": 93450
+      },
+      "2019": {
+        "year": 2019,
+        "value": 118955,
+        "land": 23190,
+        "improvements": 96610
+      },
+      "2020": {
+        "year": 2020,
+        "value": 125990,
+        "land": 23190,
+        "improvements": 102800
+      },
+      "2021": {
+        "year": 2021,
+        "value": 138589,
+        "land": 44130,
+        "improvements": 101660
+      },
+      "2022": {
+        "year": 2022,
+        "value": 158000,
+        "land": 48620,
+        "improvements": 109380
+      },
+      "2023": {
+        "year": 2023,
+        "value": 197750,
+        "land": 58270,
+        "improvements": 139480
+      },
+      "2024": {
+        "year": 2024,
+        "value": 195580,
+        "land": 58270,
+        "improvements": 137310
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 2293
+      },
+      "2021": {
+        "year": 2021,
+        "total": 2624
+      },
+      "2022": {
+        "year": 2022,
+        "total": 2186
+      },
+      "2023": {
+        "year": 2023,
+        "total": 1360
+      }
+    },
+    "owner": {
+      "names": [
+        "Deborah Raye Whitaker"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6903-Twin-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "6903 Twin Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "6903 Twin Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6915-Trail-Lk,-San-Antonio,-TX-78244",
+    "formattedAddress": "6915 Trail Lk, San Antonio, TX 78244",
+    "addressLine1": "6915 Trail Lk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.475366,
+    "longitude": -98.350641,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1714,
+    "lotSize": 6440,
+    "yearBuilt": 1984,
+    "assessorID": "05080-501-0040",
+    "legalDescription": "CB 5080E BLK 1 LOT 4 WOODLAKE PARK UT-1",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Combination",
+      "fireplace": true,
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 6,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 138037,
+        "land": 17260,
+        "improvements": 130280
+      },
+      "2019": {
+        "year": 2019,
+        "value": 151841,
+        "land": 21570,
+        "improvements": 134940
+      },
+      "2020": {
+        "year": 2020,
+        "value": 165160,
+        "land": 21570,
+        "improvements": 143590
+      },
+      "2021": {
+        "year": 2021,
+        "value": 180220,
+        "land": 38000,
+        "improvements": 142220
+      },
+      "2022": {
+        "year": 2022,
+        "value": 215890,
+        "land": 41800,
+        "improvements": 174090
+      },
+      "2023": {
+        "year": 2023,
+        "value": 244920,
+        "land": 50100,
+        "improvements": 194820
+      },
+      "2024": {
+        "year": 2024,
+        "value": 241900,
+        "land": 50100,
+        "improvements": 191800
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 2075
+      },
+      "2021": {
+        "year": 2021,
+        "total": 2187
+      },
+      "2022": {
+        "year": 2022,
+        "total": 2202
+      },
+      "2023": {
+        "year": 2023,
+        "total": 1083
+      }
+    },
+    "owner": {
+      "names": [
+        "Scott Willie Lou"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6915-Trail-Lk,-San-Antonio,-TX-78244",
+        "formattedAddress": "6915 Trail Lk, San Antonio, TX 78244",
+        "addressLine1": "6915 Trail Lk",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6906-Indian-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6906 Indian Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6906 Indian Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477209,
+    "longitude": -98.352111,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1810,
+    "lotSize": 8690,
+    "yearBuilt": 1973,
+    "assessorID": "05076-105-0120",
+    "legalDescription": "CB 5076A BLK 5 LOT 12",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Combination",
+      "fireplace": true,
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 7,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 129800,
+        "land": 18680,
+        "improvements": 116370
+      },
+      "2019": {
+        "year": 2019,
+        "value": 142780,
+        "land": 23360,
+        "improvements": 120540
+      },
+      "2020": {
+        "year": 2020,
+        "value": 151630,
+        "land": 23360,
+        "improvements": 128270
+      },
+      "2022": {
+        "year": 2022,
+        "value": 207960,
+        "land": 49100,
+        "improvements": 158860
+      },
+      "2023": {
+        "year": 2023,
+        "value": 236700,
+        "land": 58920,
+        "improvements": 177780
+      },
+      "2024": {
+        "year": 2024,
+        "value": 233940,
+        "land": 58920,
+        "improvements": 175020
+      }
+    },
+    "owner": {
+      "names": [
+        "Edmund L Tyrance",
+        "Dian Tyrance"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6906-Indian-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "6906 Indian Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "6906 Indian Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6930-Trail-Lk,-San-Antonio,-TX-78244",
+    "formattedAddress": "6930 Trail Lk, San Antonio, TX 78244",
+    "addressLine1": "6930 Trail Lk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.475264,
+    "longitude": -98.349627,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1232,
+    "lotSize": 6957,
+    "yearBuilt": 1985,
+    "assessorID": "05080-502-0090",
+    "legalDescription": "CB 5080E BLK 2 LOT 9 WOODLAKE PARK UT-1",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Wood",
+      "fireplace": true,
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 115731,
+        "land": 17530,
+        "improvements": 102730
+      },
+      "2019": {
+        "year": 2019,
+        "value": 127304,
+        "land": 21920,
+        "improvements": 106140
+      },
+      "2020": {
+        "year": 2020,
+        "value": 134870,
+        "land": 21920,
+        "improvements": 112950
+      },
+      "2021": {
+        "year": 2021,
+        "value": 148357,
+        "land": 39790,
+        "improvements": 111640
+      },
+      "2022": {
+        "year": 2022,
+        "value": 178200,
+        "land": 43830,
+        "improvements": 134370
+      },
+      "2023": {
+        "year": 2023,
+        "value": 202510,
+        "land": 52530,
+        "improvements": 149980
+      },
+      "2024": {
+        "year": 2024,
+        "value": 200180,
+        "land": 52530,
+        "improvements": 147650
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 62
+      }
+    },
+    "owner": {
+      "names": [
+        "Robert V Yarbrough",
+        "Raquel Yarbrough"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6930-Trail-Lk,-San-Antonio,-TX-78244",
+        "formattedAddress": "6930 Trail Lk, San Antonio, TX 78244",
+        "addressLine1": "6930 Trail Lk",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6838-Twin-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6838 Twin Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6838 Twin Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476463,
+    "longitude": -98.352911,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1217,
+    "lotSize": 7920,
+    "yearBuilt": 1972,
+    "assessorID": "05076-108-0360",
+    "legalDescription": "CB 5076A BLK 8 LOT 36",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Stucco",
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 6,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 98725,
+        "land": 18140,
+        "improvements": 83900
+      },
+      "2019": {
+        "year": 2019,
+        "value": 108598,
+        "land": 22670,
+        "improvements": 86780
+      },
+      "2020": {
+        "year": 2020,
+        "value": 115020,
+        "land": 22670,
+        "improvements": 92350
+      },
+      "2022": {
+        "year": 2022,
+        "value": 159520,
+        "land": 47050,
+        "improvements": 112470
+      },
+      "2023": {
+        "year": 2023,
+        "value": 182090,
+        "land": 56390,
+        "improvements": 125700
+      },
+      "2024": {
+        "year": 2024,
+        "value": 180140,
+        "land": 56390,
+        "improvements": 123750
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 1123
+      },
+      "2021": {
+        "year": 2021,
+        "total": 1194
+      },
+      "2022": {
+        "year": 2022,
+        "total": 1188
+      },
+      "2023": {
+        "year": 2023,
+        "total": 664
+      }
+    },
+    "owner": {
+      "names": [
+        "Ray Joseph E",
+        "Katherine Jr"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6838-Twin-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "6838 Twin Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "6838 Twin Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "5524-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5524 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5524 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477641,
+    "longitude": -98.350542,
+    "propertyType": "Multi-Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 912,
+    "lotSize": 7144,
+    "yearBuilt": 1985
+  },
+  {
+    "id": "6922-Moon-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6922 Moon Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6922 Moon Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477939,
+    "longitude": -98.351481,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 1780,
+    "lotSize": 7550,
+    "yearBuilt": 1974,
+    "assessorID": "05076-103-0710",
+    "legalDescription": "CB 5076A BLK 3 LOT 71",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Combination",
+      "floorCount": 2,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 7,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 128535,
+        "land": 17900,
+        "improvements": 115930
+      },
+      "2019": {
+        "year": 2019,
+        "value": 141389,
+        "land": 22360,
+        "improvements": 119900
+      },
+      "2020": {
+        "year": 2020,
+        "value": 149950,
+        "land": 22360,
+        "improvements": 127590
+      },
+      "2021": {
+        "year": 2021,
+        "value": 164945,
+        "land": 41670,
+        "improvements": 126210
+      },
+      "2022": {
+        "year": 2022,
+        "value": 200610,
+        "land": 45910,
+        "improvements": 154700
+      },
+      "2023": {
+        "year": 2023,
+        "value": 227870,
+        "land": 55040,
+        "improvements": 172830
+      },
+      "2024": {
+        "year": 2024,
+        "value": 225200,
+        "land": 55040,
+        "improvements": 170160
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 1610
+      },
+      "2021": {
+        "year": 2021,
+        "total": 1703
+      },
+      "2022": {
+        "year": 2022,
+        "total": 1712
+      },
+      "2023": {
+        "year": 2023,
+        "total": 918
+      }
+    },
+    "owner": {
+      "names": [
+        "Gary Wayne Cathey",
+        "Phyllis Cathey"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6922-Moon-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "6922 Moon Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "6922 Moon Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6822-Still-Lk,-San-Antonio,-TX-78244",
+    "formattedAddress": "6822 Still Lk, San Antonio, TX 78244",
+    "addressLine1": "6822 Still Lk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.473761,
+    "longitude": -98.351954,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1744,
+    "lotSize": 6441,
+    "yearBuilt": 1987,
+    "assessorID": "05080-507-0110",
+    "legalDescription": "CB 5080E BLK 7 LOT 11 WOODLAKE PARK UT-2",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Combination",
+      "fireplace": true,
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 7,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 140630,
+        "land": 17260,
+        "improvements": 133060
+      },
+      "2019": {
+        "year": 2019,
+        "value": 154693,
+        "land": 21580,
+        "improvements": 137780
+      },
+      "2020": {
+        "year": 2020,
+        "value": 168190,
+        "land": 21580,
+        "improvements": 146610
+      },
+      "2022": {
+        "year": 2022,
+        "value": 219260,
+        "land": 41800,
+        "improvements": 177460
+      },
+      "2023": {
+        "year": 2023,
+        "value": 248650,
+        "land": 50110,
+        "improvements": 198540
+      },
+      "2024": {
+        "year": 2024,
+        "value": 245580,
+        "land": 50110,
+        "improvements": 195470
+      }
+    },
+    "owner": {
+      "names": [
+        "Eric R Taylor",
+        "Irmtraud M Taylor"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6822-Still-Lk,-San-Antonio,-TX-78244",
+        "formattedAddress": "6822 Still Lk, San Antonio, TX 78244",
+        "addressLine1": "6822 Still Lk",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6906-Trail-Lk,-San-Antonio,-TX-78244",
+    "formattedAddress": "6906 Trail Lk, San Antonio, TX 78244",
+    "addressLine1": "6906 Trail Lk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.474859,
+    "longitude": -98.35063,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 1730,
+    "lotSize": 6440,
+    "yearBuilt": 1985,
+    "assessorID": "05080-502-0150",
+    "legalDescription": "CB 5080E BLK 2 LOT 15 WOODLAKE PARK UT-1",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Wood",
+      "fireplace": true,
+      "floorCount": 2,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 6,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 135122,
+        "land": 17260,
+        "improvements": 126530
+      },
+      "2019": {
+        "year": 2019,
+        "value": 148634,
+        "land": 21570,
+        "improvements": 130900
+      },
+      "2020": {
+        "year": 2020,
+        "value": 160860,
+        "land": 21570,
+        "improvements": 139290
+      },
+      "2021": {
+        "year": 2021,
+        "value": 175790,
+        "land": 38000,
+        "improvements": 137790
+      },
+      "2022": {
+        "year": 2022,
+        "value": 206650,
+        "land": 41800,
+        "improvements": 164850
+      },
+      "2023": {
+        "year": 2023,
+        "value": 234270,
+        "land": 50100,
+        "improvements": 184170
+      },
+      "2024": {
+        "year": 2024,
+        "value": 231420,
+        "land": 50100,
+        "improvements": 181320
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 2188
+      },
+      "2021": {
+        "year": 2021,
+        "total": 2295
+      },
+      "2022": {
+        "year": 2022,
+        "total": 2309
+      },
+      "2023": {
+        "year": 2023,
+        "total": 1100
+      }
+    },
+    "owner": {
+      "names": [
+        "Anthony P Flowers",
+        "Alma H Flowers"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6906-Trail-Lk,-San-Antonio,-TX-78244",
+        "formattedAddress": "6906 Trail Lk, San Antonio, TX 78244",
+        "addressLine1": "6906 Trail Lk",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "7006-Atherton,-San-Antonio,-TX-78244",
+    "formattedAddress": "7006 Atherton, San Antonio, TX 78244",
+    "addressLine1": "7006 Atherton",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476727,
+    "longitude": -98.350553
+  },
+  {
+    "id": "5402-Park-Lk,-San-Antonio,-TX-78244",
+    "formattedAddress": "5402 Park Lk, San Antonio, TX 78244",
+    "addressLine1": "5402 Park Lk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.475501,
+    "longitude": -98.349063
+  },
+  {
+    "id": "5315-Lakebend-East-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "5315 Lakebend East Dr, San Antonio, TX 78244",
+    "addressLine1": "5315 Lakebend East Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.474546,
+    "longitude": -98.351172,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1572,
+    "lotSize": 6325,
+    "yearBuilt": 1984,
+    "assessorID": "05080-506-0040",
+    "legalDescription": "CB 5080E BLK 6 LOT 4 WOODLAKE PARK UT-1",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Wood",
+      "fireplace": true,
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 6,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2015": {
+        "year": 2015,
+        "value": 104930,
+        "land": 17200,
+        "improvements": 87730
+      },
+      "2016": {
+        "year": 2016,
+        "value": 114010,
+        "land": 17200,
+        "improvements": 96810
+      },
+      "2017": {
+        "year": 2017,
+        "value": 118540,
+        "land": 17200,
+        "improvements": 101340
+      },
+      "2018": {
+        "year": 2018,
+        "value": 130394,
+        "land": null,
+        "improvements": null
+      },
+      "2019": {
+        "year": 2019,
+        "value": 143433,
+        "land": null,
+        "improvements": null
+      },
+      "2020": {
+        "year": 2020,
+        "value": 152350,
+        "land": 21510,
+        "improvements": 130840
+      },
+      "2021": {
+        "year": 2021,
+        "value": 167130,
+        "land": 37570,
+        "improvements": 129560
+      },
+      "2022": {
+        "year": 2022,
+        "value": 183843,
+        "land": null,
+        "improvements": null
+      },
+      "2023": {
+        "year": 2023,
+        "value": 202227,
+        "land": null,
+        "improvements": null
+      },
+      "2024": {
+        "year": 2024,
+        "value": 222450,
+        "land": null,
+        "improvements": null
+      }
+    },
+    "propertyTaxes": {
+      "2015": {
+        "year": 2015,
+        "total": 2389
+      },
+      "2016": {
+        "year": 2016,
+        "total": 2646
+      },
+      "2017": {
+        "year": 2017,
+        "total": 2692
+      },
+      "2018": {
+        "year": 2018,
+        "total": 2979
+      },
+      "2019": {
+        "year": 2019,
+        "total": 3160
+      },
+      "2020": {
+        "year": 2020,
+        "total": 3229
+      },
+      "2021": {
+        "year": 2021,
+        "total": 3533
+      },
+      "2022": {
+        "year": 2022,
+        "total": 3794
+      },
+      "2023": {
+        "year": 2023,
+        "total": 3797
+      },
+      "2024": {
+        "year": 2024,
+        "total": 4177
+      }
+    },
+    "owner": {
+      "names": [
+        "Fernando Mendez Luna",
+        "Julia B Luna"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "5315-Lakebend-East-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "5315 Lakebend East Dr, San Antonio, TX 78244",
+        "addressLine1": "5315 Lakebend East Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "5511-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",
+    "formattedAddress": "5511 Lochmoor, Apt 1, San Antonio, TX 78244",
+    "addressLine1": "5511 Lochmoor",
+    "addressLine2": "Apt 1",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.4769,
+    "longitude": -98.350809,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 3202,
+    "lotSize": 8756,
+    "yearBuilt": 1984
+  },
+  {
+    "id": "5709-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5709 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5709 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476963,
+    "longitude": -98.350546
+  },
+  {
+    "id": "5717-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5717 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5717 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476839,
+    "longitude": -98.350546,
+    "propertyType": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 987
+  },
+  {
+    "id": "5629-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5629 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5629 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.478007,
+    "longitude": -98.350543,
+    "propertyType": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 825
+  },
+  {
+    "id": "5519-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",
+    "formattedAddress": "5519 Lochmoor, Apt 1, San Antonio, TX 78244",
+    "addressLine1": "5519 Lochmoor",
+    "addressLine2": "Apt 1",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.47746,
+    "longitude": -98.350786,
+    "propertyType": "Multi-Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 800,
+    "lotSize": 8712,
+    "yearBuilt": 1984,
+    "features": {
+      "floorCount": 1
+    }
+  },
+  {
+    "id": "5515-Lochmoor,-Apt-2,-San-Antonio,-TX-78244",
+    "formattedAddress": "5515 Lochmoor, Apt 2, San Antonio, TX 78244",
+    "addressLine1": "5515 Lochmoor",
+    "addressLine2": "Apt 2",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477107,
+    "longitude": -98.350814,
+    "propertyType": "Multi-Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 800,
+    "yearBuilt": 1984
+  },
+  {
+    "id": "7014-Atherton,-San-Antonio,-TX-78244",
+    "formattedAddress": "7014 Atherton, San Antonio, TX 78244",
+    "addressLine1": "7014 Atherton",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476797,
+    "longitude": -98.350174
+  },
+  {
+    "id": "7012-Atherton,-San-Antonio,-TX-78244",
+    "formattedAddress": "7012 Atherton, San Antonio, TX 78244",
+    "addressLine1": "7012 Atherton",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476787,
+    "longitude": -98.350255
+  },
+  {
+    "id": "6906-Moon-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6906 Moon Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6906 Moon Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.47796,
+    "longitude": -98.352429,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1630,
+    "lotSize": 8800,
+    "yearBuilt": 1973,
+    "assessorID": "05076-103-0750",
+    "legalDescription": "CB 5076A BLK 3 LOT 75",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Combination",
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 6,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 128720,
+        "land": 18740,
+        "improvements": 109980
+      },
+      "2019": {
+        "year": 2019,
+        "value": 137220,
+        "land": 23430,
+        "improvements": 113790
+      },
+      "2020": {
+        "year": 2020,
+        "value": 144510,
+        "land": 23430,
+        "improvements": 121080
+      },
+      "2021": {
+        "year": 2021,
+        "value": 164690,
+        "land": 44880,
+        "improvements": 119810
+      },
+      "2022": {
+        "year": 2022,
+        "value": 198300,
+        "land": 49370,
+        "improvements": 148930
+      },
+      "2023": {
+        "year": 2023,
+        "value": 225700,
+        "land": 59220,
+        "improvements": 166480
+      },
+      "2024": {
+        "year": 2024,
+        "value": 223110,
+        "land": 59220,
+        "improvements": 163890
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 2772
+      },
+      "2021": {
+        "year": 2021,
+        "total": 3241
+      },
+      "2022": {
+        "year": 2022,
+        "total": 3858
+      },
+      "2023": {
+        "year": 2023,
+        "total": 4026
+      }
+    },
+    "owner": {
+      "names": [
+        "Fred E Porter",
+        "Karen P Porter"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "8915-Wolff-Vis,-Converse,-TX-78109",
+        "formattedAddress": "8915 Wolff Vis, Converse, TX 78109",
+        "addressLine1": "8915 Wolff Vis",
+        "addressLine2": null,
+        "city": "Converse",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78109"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6914-Indian-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6914 Indian Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6914 Indian Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477213,
+    "longitude": -98.351635,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1516,
+    "lotSize": 8690,
+    "yearBuilt": 1973,
+    "assessorID": "05076-105-0140",
+    "legalDescription": "CB 5076A BLK 5 LOT 14",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Combination",
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "pool": true,
+      "roofType": "Asphalt",
+      "roomCount": 6,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 137885,
+        "land": 18680,
+        "improvements": 124960
+      },
+      "2019": {
+        "year": 2019,
+        "value": 151674,
+        "land": 23360,
+        "improvements": 128410
+      },
+      "2020": {
+        "year": 2020,
+        "value": 166841,
+        "land": 23360,
+        "improvements": 144770
+      },
+      "2022": {
+        "year": 2022,
+        "value": 206260,
+        "land": 49100,
+        "improvements": 157160
+      },
+      "2023": {
+        "year": 2023,
+        "value": 233460,
+        "land": 58920,
+        "improvements": 174540
+      },
+      "2024": {
+        "year": 2024,
+        "value": 230760,
+        "land": 58920,
+        "improvements": 171840
+      }
+    },
+    "owner": {
+      "names": [
+        "Herman C Smith",
+        "Lorentina S Smith"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6914-Indian-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "6914 Indian Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "6914 Indian Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6835-Indian-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6835 Indian Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6835 Indian Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477662,
+    "longitude": -98.353047,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1795,
+    "lotSize": 8360,
+    "yearBuilt": 1972,
+    "assessorID": "05076-106-0140",
+    "legalDescription": "CB 5076A BLK 6 LOT 14",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Wood",
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 119086,
+        "land": 18480,
+        "improvements": 105190
+      },
+      "2019": {
+        "year": 2019,
+        "value": 130995,
+        "land": 23100,
+        "improvements": 109260
+      },
+      "2020": {
+        "year": 2020,
+        "value": 139370,
+        "land": 23100,
+        "improvements": 116270
+      },
+      "2021": {
+        "year": 2021,
+        "value": 153307,
+        "land": 43890,
+        "improvements": 115470
+      },
+      "2022": {
+        "year": 2022,
+        "value": 192350,
+        "land": 48320,
+        "improvements": 144030
+      },
+      "2023": {
+        "year": 2023,
+        "value": 219750,
+        "land": 57940,
+        "improvements": 161810
+      },
+      "2024": {
+        "year": 2024,
+        "value": 217240,
+        "land": 57940,
+        "improvements": 159300
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 1260
+      },
+      "2021": {
+        "year": 2021,
+        "total": 1349
+      },
+      "2022": {
+        "year": 2022,
+        "total": 1353
+      },
+      "2023": {
+        "year": 2023,
+        "total": 789
+      }
+    },
+    "owner": {
+      "names": [
+        "Starling Mitchael D L",
+        "Ingrid R L"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6835-Indian-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "6835 Indian Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "6835 Indian Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "5515-Lochmoor,-Apt-1,-San-Antonio,-TX-78244",
+    "formattedAddress": "5515 Lochmoor, Apt 1, San Antonio, TX 78244",
+    "addressLine1": "5515 Lochmoor",
+    "addressLine2": "Apt 1",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477107,
+    "longitude": -98.350814,
+    "propertyType": "Multi-Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 800
+  },
+  {
+    "id": "5505-Roanwood,-San-Antonio,-TX-78244",
+    "formattedAddress": "5505 Roanwood, San Antonio, TX 78244",
+    "addressLine1": "5505 Roanwood",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477157,
+    "longitude": -98.349687,
+    "propertyType": "Multi-Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 987
+  },
+  {
+    "id": "5532-Lochmoor,-San-Antonio,-TX-78244",
+    "formattedAddress": "5532 Lochmoor, San Antonio, TX 78244",
+    "addressLine1": "5532 Lochmoor",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.477966,
+    "longitude": -98.350541,
+    "propertyType": "Multi-Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 912,
+    "lotSize": 7797,
+    "yearBuilt": 1985
+  },
+  {
+    "id": "7028-Atherton,-San-Antonio,-TX-78244",
+    "formattedAddress": "7028 Atherton, San Antonio, TX 78244",
+    "addressLine1": "7028 Atherton",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476808,
+    "longitude": -98.349434,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1824
+  },
+  {
+    "id": "6827-Blue-Lake-Dr,-San-Antonio,-TX-78244",
+    "formattedAddress": "6827 Blue Lake Dr, San Antonio, TX 78244",
+    "addressLine1": "6827 Blue Lake Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.476149,
+    "longitude": -98.353769,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "squareFootage": 1176,
+    "lotSize": 6930,
+    "yearBuilt": 1972,
+    "assessorID": "05076-108-0200",
+    "legalDescription": "CB 5076A BLK 8 LOT 20",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Stucco",
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 1,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Metal",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 91850,
+        "land": 17530,
+        "improvements": 77290
+      },
+      "2019": {
+        "year": 2019,
+        "value": 101035,
+        "land": 21920,
+        "improvements": 80140
+      },
+      "2020": {
+        "year": 2020,
+        "value": 108390,
+        "land": 21920,
+        "improvements": 86470
+      },
+      "2022": {
+        "year": 2022,
+        "value": 149720,
+        "land": 43730,
+        "improvements": 105990
+      },
+      "2023": {
+        "year": 2023,
+        "value": 171080,
+        "land": 52390,
+        "improvements": 118690
+      },
+      "2024": {
+        "year": 2024,
+        "value": 169240,
+        "land": 52390,
+        "improvements": 116850
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 887
+      },
+      "2021": {
+        "year": 2021,
+        "total": 959
+      },
+      "2022": {
+        "year": 2022,
+        "total": 950
+      },
+      "2023": {
+        "year": 2023,
+        "total": 579
+      }
+    },
+    "owner": {
+      "names": [
+        "Cruz Reynaldo",
+        "Juanita Talamantez"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6827-Blue-Lake-Dr,-San-Antonio,-TX-78244",
+        "formattedAddress": "6827 Blue Lake Dr, San Antonio, TX 78244",
+        "addressLine1": "6827 Blue Lake Dr",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  },
+  {
+    "id": "6902-Quail-Lk,-San-Antonio,-TX-78244",
+    "formattedAddress": "6902 Quail Lk, San Antonio, TX 78244",
+    "addressLine1": "6902 Quail Lk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78244",
+    "county": "Bexar",
+    "countyFips": "029",
+    "latitude": 29.474233,
+    "longitude": -98.350186,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1592,
+    "lotSize": 7935,
+    "yearBuilt": 1985,
+    "assessorID": "05080-504-0040",
+    "legalDescription": "CB 5080E BLK 4 LOT 4 WOODLAKE PARK UT-1",
+    "subdivision": "WOODLAKE",
+    "features": {
+      "architectureType": "Contemporary",
+      "cooling": true,
+      "coolingType": "Central",
+      "exteriorType": "Combination",
+      "fireplace": true,
+      "floorCount": 1,
+      "foundationType": "Slab / Mat / Raft",
+      "garage": true,
+      "garageSpaces": 2,
+      "garageType": "Attached",
+      "heating": true,
+      "heatingType": "Forced Air",
+      "roofType": "Asphalt",
+      "roomCount": 5,
+      "unitCount": 1
+    },
+    "taxAssessments": {
+      "2018": {
+        "year": 2018,
+        "value": 141640,
+        "land": 18170,
+        "improvements": 123470
+      },
+      "2019": {
+        "year": 2019,
+        "value": 150570,
+        "land": 22710,
+        "improvements": 127860
+      },
+      "2020": {
+        "year": 2020,
+        "value": 158760,
+        "land": 22710,
+        "improvements": 136050
+      },
+      "2021": {
+        "year": 2021,
+        "value": 174636,
+        "land": 42770,
+        "improvements": 134730
+      },
+      "2022": {
+        "year": 2022,
+        "value": 211860,
+        "land": 47060,
+        "improvements": 164800
+      },
+      "2023": {
+        "year": 2023,
+        "value": 240890,
+        "land": 56500,
+        "improvements": 184390
+      },
+      "2024": {
+        "year": 2024,
+        "value": 238030,
+        "land": 56500,
+        "improvements": 181530
+      }
+    },
+    "propertyTaxes": {
+      "2019": {
+        "year": 2019,
+        "total": 3331
+      },
+      "2021": {
+        "year": 2021,
+        "total": 3386
+      },
+      "2022": {
+        "year": 2022,
+        "total": 3360
+      },
+      "2023": {
+        "year": 2023,
+        "total": 2759
+      }
+    },
+    "owner": {
+      "names": [
+        "Sherry Evett Doolittle",
+        "Michael Antohony Doolittle"
+      ],
+      "type": "Individual",
+      "mailingAddress": {
+        "id": "6902-Quail-Lk,-San-Antonio,-TX-78244",
+        "formattedAddress": "6902 Quail Lk, San Antonio, TX 78244",
+        "addressLine1": "6902 Quail Lk",
+        "addressLine2": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "stateFips": "48",
+        "zipCode": "78244"
+      }
+    },
+    "ownerOccupied": true
+  }
+]

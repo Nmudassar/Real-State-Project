@@ -1,5 +1,5 @@
 import requests
-#import json
+import json
 from src.config import BASE_URL, API_KEY
 
 
@@ -18,5 +18,9 @@ def extract_properties(city='San Antonio', state='TX'):
 
     if response.status_code == 200:
         data = response.json()
-        print(data)
+        return data
+    
+    else:
+        
+        print({response.status_code} - {response.text})
         
