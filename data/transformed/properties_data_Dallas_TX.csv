@@ -1,0 +1,51 @@
+id,address,city,state,state_fips,zip_code,county,county_fips,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built
+"10700-Woodmeadow-Pkwy,-Dallas,-TX-75228","10700 Woodmeadow Pkwy, Dallas, TX 75228",Dallas,TX,48,75228,Dallas,113,32.846039,-96.638577,Apartment,1.0,1.0,512.0,1983.0
+"10911-Woodmeadow-Pkwy,-Dallas,-TX-75228","10911 Woodmeadow Pkwy, Dallas, TX 75228",Dallas,TX,48,75228,Dallas,113,32.846812,-96.641226,Apartment,1.0,1.0,652.0,1985.0
+"10500-Lake-June-Rd,-Apt-H5,-Dallas,-TX-75217","10500 Lake June Rd, Apt H5, Dallas, TX 75217",Dallas,TX,48,75217,Dallas,113,32.732575,-96.644336,Condo,2.0,1.5,1082.0,1984.0
+"801-N-Bishop-Ave,---2-201,-Dallas,-TX-75208","801 N Bishop Ave, # 2-201, Dallas, TX 75208",Dallas,TX,48,75208,Dallas,113,32.752524,-96.828301,Apartment,2.0,2.0,1095.0,
+"1400-Browder-St,-Dallas,-TX-75215","1400 Browder St, Dallas, TX 75215",Dallas,TX,48,75215,Dallas,113,32.771585,-96.791931,Townhouse,2.0,2.0,2200.0,
+"2514-Perryton-Dr,-Dallas,-TX-75224","2514 Perryton Dr, Dallas, TX 75224",Dallas,TX,48,75224,Dallas,113,32.71105,-96.86211,Apartment,1.0,1.0,750.0,
+"2222-N-Saint-Augustine-Dr,-Dallas,-TX-75227","2222 N Saint Augustine Dr, Dallas, TX 75227",Dallas,TX,48,75227,Dallas,113,32.751749,-96.655516,Apartment,,,,2006.0
+"1509-Main-St,-Dallas,-TX-75201","1509 Main St, Dallas, TX 75201",Dallas,TX,48,75201,Dallas,113,32.780871,-96.799302,Apartment,0.0,1.0,502.0,1913.0
+"811-Morrell-Ave,-Dallas,-TX-75203","811 Morrell Ave, Dallas, TX 75203",Dallas,TX,48,75203,Dallas,113,32.739266,-96.811095,Apartment,,2.0,,2003.0
+"7878-Marvin-D-Love-Fwy,-Dallas,-TX-75237","7878 Marvin D Love Fwy, Dallas, TX 75237",Dallas,TX,48,75237,Dallas,113,32.650705,-96.878809,Apartment,0.0,1.0,400.0,1986.0
+"4101-Delafield-Ln,-Dallas,-TX-75227","4101 Delafield Ln, Dallas, TX 75227",Dallas,TX,48,75227,Dallas,113,32.77318,-96.674896,Apartment,1.0,1.0,,2005.0
+"9415-Bruton-Rd,-Dallas,-TX-75217","9415 Bruton Rd, Dallas, TX 75217",Dallas,TX,48,75217,Dallas,113,32.74996,-96.658284,Apartment,1.0,1.0,620.0,2016.0
+"3035-W-Pentagon-Pkwy,-Dallas,-TX-75233","3035 W Pentagon Pkwy, Dallas, TX 75233",Dallas,TX,48,75233,Dallas,113,32.707053,-96.868748,Apartment,1.0,1.0,,1968.0
+"1201-S-Ewing-Ave,-Dallas,-TX-75216","1201 S Ewing Ave, Dallas, TX 75216",Dallas,TX,48,75216,Dallas,113,32.734567,-96.812579,Apartment,,,,2006.0
+"6363-W-Camp-Wisdom-Rd,-Dallas,-TX-75236","6363 W Camp Wisdom Rd, Dallas, TX 75236",Dallas,TX,48,75236,Dallas,113,32.663416,-96.928694,Apartment,2.0,1.0,,1986.0
+"3636-W-Red-Bird-Ln,-Dallas,-TX-75237","3636 W Red Bird Ln, Dallas, TX 75237",Dallas,TX,48,75237,Dallas,113,32.674657,-96.879303,Townhouse,,,,1987.0
+"2540-Bahama-Dr,-Dallas,-TX-75211","2540 Bahama Dr, Dallas, TX 75211",Dallas,TX,48,75211,Dallas,113,32.75546,-96.86307,Apartment,1.0,1.0,,1984.0
+"990-Singleton-Blvd,-Dallas,-TX-75212","990 Singleton Blvd, Dallas, TX 75212",Dallas,TX,48,75212,Dallas,113,32.77682,-96.837872,Apartment,1.0,1.0,688.0,2019.0
+"1520-N-Beckley-Ave,-Dallas,-TX-75203","1520 N Beckley Ave, Dallas, TX 75203",Dallas,TX,48,75203,Dallas,113,32.763051,-96.819239,Apartment,1.0,1.0,653.0,2001.0
+"400-S-Hall-St,-Dallas,-TX-75226","400 S Hall St, Dallas, TX 75226",Dallas,TX,48,75226,Dallas,113,32.781156,-96.778852,Apartment,,,,2019.0
+"4417-S-Lancaster-Rd,-Dallas,-TX-75216","4417 S Lancaster Rd, Dallas, TX 75216",Dallas,TX,48,75216,Dallas,113,32.695023,-96.794312,Apartment,0.0,1.0,493.0,2016.0
+"3050-Remond-Dr,-Dallas,-TX-75211","3050 Remond Dr, Dallas, TX 75211",Dallas,TX,48,75211,Dallas,113,32.763067,-96.870809,Apartment,,,,1999.0
+"1555-Elm-St,-Dallas,-TX-75201","1555 Elm St, Dallas, TX 75201",Dallas,TX,48,75201,Dallas,113,32.781902,-96.798899,Apartment,1.0,1.0,938.0,2015.0
+"2101-Taylor-St,-Dallas,-TX-75201","2101 Taylor St, Dallas, TX 75201",Dallas,TX,48,75201,Dallas,113,32.777991,-96.789419,Apartment,1.0,1.0,945.0,2019.0
+"811-N-Plymouth-Rd,-Dallas,-TX-75211","811 N Plymouth Rd, Dallas, TX 75211",Dallas,TX,48,75211,Dallas,113,32.753336,-96.860358,Single Family,2.0,1.0,,1961.0
+"1900-Elm-St,-Dallas,-TX-75201","1900 Elm St, Dallas, TX 75201",Dallas,TX,48,75201,Dallas,113,32.781864,-96.795521,Apartment,1.0,1.0,801.0,1997.0
+"220-Stoneport-Dr,-Dallas,-TX-75217","220 Stoneport Dr, Dallas, TX 75217",Dallas,TX,48,75217,Dallas,113,32.713432,-96.713676,Apartment,,2.0,,2002.0
+"195-W-Davis-St,-Dallas,-TX-75208","195 W Davis St, Dallas, TX 75208",Dallas,TX,48,75208,Dallas,113,32.74979,-96.82445,Apartment,0.0,1.0,384.0,2018.0
+"220-E-Overton-Rd,-Dallas,-TX-75216","220 E Overton Rd, Dallas, TX 75216",Dallas,TX,48,75216,Dallas,113,32.699704,-96.820522,Apartment,,,,1985.0
+"8200-Clarksprings-Dr,-Dallas,-TX-75236","8200 Clarksprings Dr, Dallas, TX 75236",Dallas,TX,48,75236,Dallas,113,32.665253,-96.939034,Apartment,1.0,1.0,714.0,2019.0
+"1222-Commerce-St,-Dallas,-TX-75202","1222 Commerce St, Dallas, TX 75202",Dallas,TX,48,75202,Dallas,113,32.779121,-96.800813,Apartment,0.0,1.0,537.0,1965.0
+"3500-3550-E-Overton-Rd,-Dallas,-TX-75216","3500-3550 E Overton Rd, Dallas, TX 75216",Dallas,TX,48,75216,Dallas,113,32.72218,-96.76819,Apartment,,1.0,,1974.0
+"3015-E-Ledbetter-Dr,-Dallas,-TX-75216","3015 E Ledbetter Dr, Dallas, TX 75216",Dallas,TX,48,75216,Dallas,113,32.696458,-96.76998,Apartment,2.0,2.0,950.0,2002.0
+"2900-Canton-St,-Dallas,-TX-75226","2900 Canton St, Dallas, TX 75226",Dallas,TX,48,75226,Dallas,113,32.782378,-96.780815,Apartment,1.0,1.0,597.0,2020.0
+"3402-S-Buckner-Blvd,-Dallas,-TX-75227","3402 S Buckner Blvd, Dallas, TX 75227",Dallas,TX,48,75227,Dallas,113,32.766514,-96.681168,Apartment,,,,1985.0
+"1306-N-Plymouth-Rd,-Dallas,-TX-75208","1306 N Plymouth Rd, Dallas, TX 75208",Dallas,TX,48,75208,Dallas,113,32.763129,-96.849274,Townhouse,1.0,1.0,627.0,1962.0
+"222-Browder-St,-Dallas,-TX-75201","222 Browder St, Dallas, TX 75201",Dallas,TX,48,75201,Dallas,113,32.77955,-96.79821,Apartment,1.0,1.0,869.0,1904.0
+"6968-Clarkridge-Dr,-Dallas,-TX-75236","6968 Clarkridge Dr, Dallas, TX 75236",Dallas,TX,48,75236,Dallas,113,32.666487,-96.942964,Apartment,,,,2002.0
+"1210-S-Lamar-St,-Dallas,-TX-75215","1210 S Lamar St, Dallas, TX 75215",Dallas,TX,48,75215,Dallas,113,32.769695,-96.79668,Apartment,1.0,1.0,781.0,
+"1150-Pinnacle-Park-Blvd,-Dallas,-TX-75211","1150 Pinnacle Park Blvd, Dallas, TX 75211",Dallas,TX,48,75211,Dallas,113,32.756135,-96.87653,Apartment,,,,
+"1919-Jackson-St,-Dallas,-TX-75201","1919 Jackson St, Dallas, TX 75201",Dallas,TX,48,75201,Dallas,113,32.78041,-96.79463,Apartment,0.0,1.0,501.0,2017.0
+"8206-Willoughby-Blvd,-Dallas,-TX-75232","8206 Willoughby Blvd, Dallas, TX 75232",Dallas,TX,48,75232,Dallas,113,32.64714,-96.82892,Apartment,2.0,2.0,,1968.0
+"5821-Bonnie-View-Rd,-Dallas,-TX-75241","5821 Bonnie View Rd, Dallas, TX 75241",Dallas,TX,48,75241,Dallas,113,32.67709,-96.7669,Apartment,1.0,1.0,620.0,1971.0
+"5480-Preakness-Ln,-Dallas,-TX-75211","5480 Preakness Ln, Dallas, TX 75211",Dallas,TX,48,75211,Dallas,113,32.738965,-96.915374,Apartment,1.0,1.0,,2004.0
+"1409-N-Zang-Blvd,-Dallas,-TX-75203","1409 N Zang Blvd, Dallas, TX 75203",Dallas,TX,48,75203,Dallas,113,32.76121,-96.81801,Apartment,1.0,1.0,664.0,2004.0
+"333-E-Greenbriar-Ln,-Dallas,-TX-75203","333 E Greenbriar Ln, Dallas, TX 75203",Dallas,TX,48,75203,Dallas,113,32.763561,-96.818077,Apartment,1.0,1.0,750.0,2014.0
+"9760-9860-Scyene-Rd,-Dallas,-TX-75227","9760-9860 Scyene Rd, Dallas, TX 75227",Dallas,TX,48,75227,Dallas,113,32.76172,-96.65215,Apartment,,,,1986.0
+"3706-W-8th-St,-Dallas,-TX-75211","3706 W 8th St, Dallas, TX 75211",Dallas,TX,48,75211,Dallas,113,32.74804,-96.879539,Apartment,1.0,1.0,595.0,1958.0
+"1011-S-Pearl-Expy,-Dallas,-TX-75201","1011 S Pearl Expy, Dallas, TX 75201",Dallas,TX,48,75201,Dallas,113,32.776789,-96.789311,Apartment,,,,2017.0
+"1777-N-Record-St,-Dallas,-TX-75202","1777 N Record St, Dallas, TX 75202",Dallas,TX,48,75202,Dallas,113,32.782014,-96.808292,Apartment,1.0,1.0,743.0,2016.0

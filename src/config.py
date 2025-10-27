@@ -5,3 +5,6 @@ load_dotenv()
 
 API_KEY = os.getenv("RENTCAST_API_KEY")
 BASE_URL = "https://api.rentcast.io/v1/properties"
+
+print("API Key loaded:", API_KEY is not None)
+

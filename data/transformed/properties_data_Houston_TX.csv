@@ -1,0 +1,51 @@
+id,address,city,state,state_fips,zip_code,county,county_fips,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built
+"4335-Aldine-Mail-Rd,-Houston,-TX-77039","4335 Aldine Mail Rd, Houston, TX 77039",Houston,TX,48,77039,Harris,201,29.903164,-95.329721,Apartment,,,,1976.0
+"5151-Edloe-St,-Houston,-TX-77005","5151 Edloe St, Houston, TX 77005",Houston,TX,48,77005,Harris,201,29.72742,-95.43306,Apartment,1.0,1.0,910.0,1999.0
+"2827-Dunvale-Rd,-Houston,-TX-77063","2827 Dunvale Rd, Houston, TX 77063",Houston,TX,48,77063,Harris,201,29.73379,-95.51258,Apartment,1.0,1.0,659.0,2016.0
+"872-Bettina-Ct,-Houston,-TX-77024","872 Bettina Ct, Houston, TX 77024",Houston,TX,48,77024,Harris,201,29.77818,-95.53896,Apartment,1.0,1.0,610.0,1967.0
+"10000-Hammerly-Blvd,-Houston,-TX-77080","10000 Hammerly Blvd, Houston, TX 77080",Houston,TX,48,77080,Harris,201,29.812977,-95.540886,Apartment,,,,1974.0
+"1755-Wyndale-St,-Houston,-TX-77030","1755 Wyndale St, Houston, TX 77030",Houston,TX,48,77030,Harris,201,29.7028,-95.3948,Apartment,1.0,1.0,687.0,2015.0
+"8300-El-Mundo-St,-Houston,-TX-77054","8300 El Mundo St, Houston, TX 77054",Houston,TX,48,77054,Harris,201,29.68368,-95.38669,Apartment,1.0,1.0,770.0,1989.0
+"1901-Cullen-Blvd,-Houston,-TX-77023","1901 Cullen Blvd, Houston, TX 77023",Houston,TX,48,77023,Harris,201,29.734194,-95.340729,Apartment,4.0,4.0,1552.0,2017.0
+"2630-Bissonnet-St,-Houston,-TX-77005","2630 Bissonnet St, Houston, TX 77005",Houston,TX,48,77005,Harris,201,29.72623,-95.42014,Apartment,1.0,1.0,703.0,2014.0
+"16457-El-Camino-Real,-Houston,-TX-77062","16457 El Camino Real, Houston, TX 77062",Houston,TX,48,77062,Harris,201,29.55885,-95.12286,Apartment,2.0,1.5,995.0,1963.0
+"3433-W-Dallas-St,-Houston,-TX-77019","3433 W Dallas St, Houston, TX 77019",Houston,TX,48,77019,Harris,201,29.75669,-95.40135,Apartment,1.0,1.0,714.0,1974.0
+"2717-Stoney-Brook-Dr,-Houston,-TX-77063","2717 Stoney Brook Dr, Houston, TX 77063",Houston,TX,48,77063,Harris,201,29.73556,-95.50463,Apartment,,,,1971.0
+"3003-Memorial-Ct,-Houston,-TX-77007","3003 Memorial Ct, Houston, TX 77007",Houston,TX,48,77007,Harris,201,29.76406,-95.39007,Apartment,1.0,1.0,707.0,2001.0
+"8345-Park-Place-Blvd,-Houston,-TX-77017","8345 Park Place Blvd, Houston, TX 77017",Houston,TX,48,77017,Harris,201,29.692894,-95.268446,Apartment,1.0,1.0,739.0,1965.0
+"3133-Buffalo-Speedway,-Houston,-TX-77098","3133 Buffalo Speedway, Houston, TX 77098",Houston,TX,48,77098,Harris,201,29.735252,-95.428351,Apartment,1.0,1.0,800.0,1990.0
+"10001-Fondren-Rd,-Houston,-TX-77096","10001 Fondren Rd, Houston, TX 77096",Houston,TX,48,77096,Harris,201,29.67188,-95.50824,Apartment,,,,1978.0
+"6800-Shavelson-St,-Houston,-TX-77055","6800 Shavelson St, Houston, TX 77055",Houston,TX,48,77055,Harris,201,29.7872,-95.46893,Apartment,2.0,2.0,1274.0,
+"8330-Willow-Place-Dr-S,-Houston,-TX-77070","8330 Willow Place Dr S, Houston, TX 77070",Houston,TX,48,77070,Harris,201,29.95947,-95.55701,Apartment,,,,1982.0
+"4200-Cypress-Creek-Pkwy,-Houston,-TX-77068","4200 Cypress Creek Pkwy, Houston, TX 77068",Houston,TX,48,77068,Harris,201,29.99146,-95.49299,Apartment,1.0,1.0,1274.0,1999.0
+"2800-S-Dairy-Ashford-Rd,-Houston,-TX-77082","2800 S Dairy Ashford Rd, Houston, TX 77082",Houston,TX,48,77082,Harris,201,29.73277,-95.60617,Apartment,1.0,1.0,519.0,1981.0
+"17630-Wayforest-Dr,-Houston,-TX-77060","17630 Wayforest Dr, Houston, TX 77060",Houston,TX,48,77060,Harris,201,29.95452,-95.39153,Apartment,1.0,1.0,876.0,1983.0
+"6464-E-Sam-Houston-Pkwy-N,-Houston,-TX-77049","6464 E Sam Houston Pkwy N, Houston, TX 77049",Houston,TX,48,77049,Harris,201,29.83467,-95.16718,Apartment,,,,2008.0
+"19321-Park-Row,-Houston,-TX-77084","19321 Park Row, Houston, TX 77084",Houston,TX,48,77084,Harris,201,29.79052,-95.70917,Single Family,0.0,,,1984.0
+"502-S-Post-Oak-Ln,-Houston,-TX-77056","502 S Post Oak Ln, Houston, TX 77056",Houston,TX,48,77056,Harris,201,29.76381,-95.46416,Apartment,1.0,1.0,694.0,2014.0
+"12300-Fleming-Dr,-Houston,-TX-77013","12300 Fleming Dr, Houston, TX 77013",Houston,TX,48,77013,Harris,201,29.77434,-95.21975,Single Family,,,,
+"7900-N-Stadium-Dr,-Unit-259,-Houston,-TX-77030","7900 N Stadium Dr, Unit 259, Houston, TX 77030",Houston,TX,48,77030,Harris,201,29.695284,-95.409558,Condo,2.0,2.0,1137.0,1979.0
+"2121-Midlane-St,-Houston,-TX-77027","2121 Midlane St, Houston, TX 77027",Houston,TX,48,77027,Harris,201,29.7463,-95.44958,Apartment,,,,2010.0
+"2315B-Bevis-St,-Unit-B,-Houston,-TX-77008","2315B Bevis St, Unit B, Houston, TX 77008",Houston,TX,48,77008,Harris,201,29.807084,-95.422682,Single Family,3.0,2.5,2467.0,2016.0
+"8255-Sunbury-Ln,-Houston,-TX-77095","8255 Sunbury Ln, Houston, TX 77095",Houston,TX,48,77095,Harris,201,29.89694,-95.62959,Apartment,1.0,1.0,600.0,1983.0
+"17331-Red-Oak-Dr,-Apt-18,-Houston,-TX-77090","17331 Red Oak Dr, Apt 18, Houston, TX 77090",Houston,TX,48,77090,Harris,201,30.023638,-95.44866,Condo,1.0,1.0,714.0,1978.0
+"603-Euclid-St,-Units-1-&-2,-Houston,-TX-77009","603 Euclid St, Units 1 & 2, Houston, TX 77009",Houston,TX,48,77009,Harris,201,29.785518,-95.378019,Multi-Family,2.0,1.0,1211.0,1920.0
+"6400-W-Bellfort-St,-Houston,-TX-77035","6400 W Bellfort St, Houston, TX 77035",Houston,TX,48,77035,Harris,201,29.656226,-95.503467,Townhouse,,,,1978.0
+"3603-Chenevert-St,-Houston,-TX-77004","3603 Chenevert St, Houston, TX 77004",Houston,TX,48,77004,Harris,201,29.73434,-95.37236,Apartment,1.0,1.0,780.0,2007.0
+"450-Normandy-St,-Houston,-TX-77015","450 Normandy St, Houston, TX 77015",Houston,TX,48,77015,Harris,201,29.79291,-95.20328,Apartment,,,,1984.0
+"12707-Bellaire-Blvd,-Houston,-TX-77072","12707 Bellaire Blvd, Houston, TX 77072",Houston,TX,48,77072,Harris,201,29.70255,-95.60652,Apartment,,,,1981.0
+"10950-Briar-Forest-Dr,-Houston,-TX-77042","10950 Briar Forest Dr, Houston, TX 77042",Houston,TX,48,77042,Harris,201,29.74879,-95.56849,Apartment,,,660.0,1974.0
+"8181-El-Mundo-St,-Houston,-TX-77054","8181 El Mundo St, Houston, TX 77054",Houston,TX,48,77054,Harris,201,29.68291,-95.38463,Apartment,2.0,2.0,1241.0,1995.0
+"14800-Memorial-Dr,-Houston,-TX-77079","14800 Memorial Dr, Houston, TX 77079",Houston,TX,48,77079,Harris,201,29.7727,-95.61136,Apartment,1.0,1.5,989.0,2016.0
+"2255-Eldridge-Pkwy,-Houston,-TX-77077","2255 Eldridge Pkwy, Houston, TX 77077",Houston,TX,48,77077,Harris,201,29.74172,-95.62337,Apartment,1.0,1.0,810.0,1998.0
+"5105-Airline-Dr,-Houston,-TX-77022","5105 Airline Dr, Houston, TX 77022",Houston,TX,48,77022,Harris,201,29.840098,-95.385124,Apartment,2.0,1.0,950.0,2004.0
+"9757-Pine-Lake-Dr,-Houston,-TX-77055","9757 Pine Lake Dr, Houston, TX 77055",Houston,TX,48,77055,Harris,201,29.78924,-95.53189,Apartment,2.0,2.0,1166.0,2007.0
+"7315-Brompton-St,-Houston,-TX-77025","7315 Brompton St, Houston, TX 77025",Houston,TX,48,77025,Harris,201,29.70238,-95.42187,Apartment,1.0,1.0,505.0,1970.0
+"611-N-Dairy-Ashford-Rd,-Houston,-TX-77079","611 N Dairy Ashford Rd, Houston, TX 77079",Houston,TX,48,77079,Harris,201,29.76885,-95.60673,Apartment,2.0,2.0,,2015.0
+"2151-S-Kirkwood-Dr,-Houston,-TX-77077","2151 S Kirkwood Dr, Houston, TX 77077",Houston,TX,48,77077,Harris,201,29.74372,-95.58726,Apartment,,,,1982.0
+"1920-Hollister-St,-Houston,-TX-77080","1920 Hollister St, Houston, TX 77080",Houston,TX,48,77080,Harris,201,29.80841,-95.5056,Apartment,1.0,1.0,,2018.0
+"3833-Cummins-St,-Houston,-TX-77027","3833 Cummins St, Houston, TX 77027",Houston,TX,48,77027,Harris,201,29.73033,-95.43694,Apartment,0.0,1.0,685.0,2007.0
+"10070-Westpark-Dr,-Houston,-TX-77042","10070 Westpark Dr, Houston, TX 77042",Houston,TX,48,77042,Harris,201,29.72345,-95.54334,Apartment,1.0,1.0,523.0,1977.0
+"14504-Briar-Forest-Dr,-Houston,-TX-77077","14504 Briar Forest Dr, Houston, TX 77077",Houston,TX,48,77077,Harris,201,29.75708,-95.63928,Apartment,1.0,1.0,817.0,1999.0
+"13155-Woodforest-Blvd,-Houston,-TX-77015","13155 Woodforest Blvd, Houston, TX 77015",Houston,TX,48,77015,Harris,201,29.7939,-95.19182,Apartment,,,,1982.0
+"16755-W-Lake-Houston-Pkwy,-Houston,-TX-77044","16755 W Lake Houston Pkwy, Houston, TX 77044",Houston,TX,48,77044,Harris,201,29.96478,-95.17079,Apartment,1.0,1.0,663.0,2016.0

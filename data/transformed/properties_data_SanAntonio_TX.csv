@@ -1,51 +1,51 @@
-id,address,addressLine1,addressLine2,city,state,state_fips,zip_code,county,county_Fips
-"5509-Roanwood,-San-Antonio,-TX-78244","5509 Roanwood, San Antonio, TX 78244",5509 Roanwood,,San Antonio,TX,48,78244,Bexar,029
-"5528-Lochmoor,-San-Antonio,-TX-78244","5528 Lochmoor, San Antonio, TX 78244",5528 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"5523-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5523 Lochmoor, Apt 2, San Antonio, TX 78244",5523 Lochmoor,Apt 2,San Antonio,TX,48,78244,Bexar,029
-"5721-Lochmoor,-San-Antonio,-TX-78244","5721 Lochmoor, San Antonio, TX 78244",5721 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"5519-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5519 Lochmoor, Apt 2, San Antonio, TX 78244",5519 Lochmoor,Apt 2,San Antonio,TX,48,78244,Bexar,029
-"5527-Lochmoor,---2,-San-Antonio,-TX-78244","5527 Lochmoor, # 2, San Antonio, TX 78244",5527 Lochmoor,# 2,San Antonio,TX,48,78244,Bexar,029
-"5520-Lochmoor,-San-Antonio,-TX-78244","5520 Lochmoor, San Antonio, TX 78244",5520 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"5512-Lochmoor,-San-Antonio,-TX-78244","5512 Lochmoor, San Antonio, TX 78244",5512 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"5516-Lochmoor,-San-Antonio,-TX-78244","5516 Lochmoor, San Antonio, TX 78244",5516 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"5511-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5511 Lochmoor, Apt 2, San Antonio, TX 78244",5511 Lochmoor,Apt 2,San Antonio,TX,48,78244,Bexar,029
-"5705-Lochmoor,-San-Antonio,-TX-78244","5705 Lochmoor, San Antonio, TX 78244",5705 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"7002-Atherton,-San-Antonio,-TX-78244","7002 Atherton, San Antonio, TX 78244",7002 Atherton,,San Antonio,TX,48,78244,Bexar,029
-"5713-Lochmoor,-San-Antonio,-TX-78244","5713 Lochmoor, San Antonio, TX 78244",5713 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"7024-Atherton,-San-Antonio,-TX-78244","7024 Atherton, San Antonio, TX 78244",7024 Atherton,,San Antonio,TX,48,78244,Bexar,029
-"5310-Lake,-Golden,-San-Antonio,-TX-78244","5310 Lake, Golden, San Antonio, TX 78244",5310 Lake,Golden,San Antonio,TX,48,78244,Bexar,029
-"5523-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5523 Lochmoor, Apt 1, San Antonio, TX 78244",5523 Lochmoor,Apt 1,San Antonio,TX,48,78244,Bexar,029
-"5322-Shadow-Lake-Dr,-San-Antonio,-TX-78244","5322 Shadow Lake Dr, San Antonio, TX 78244",5322 Shadow Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"5403-Park-Lk,-San-Antonio,-TX-78244","5403 Park Lk, San Antonio, TX 78244",5403 Park Lk,,San Antonio,TX,48,78244,Bexar,029
-"6830-Blue-Lake-Dr,-San-Antonio,-TX-78244","6830 Blue Lake Dr, San Antonio, TX 78244",6830 Blue Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"6826-Blue-Lake-Dr,-San-Antonio,-TX-78244","6826 Blue Lake Dr, San Antonio, TX 78244",6826 Blue Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"5602-Crater-Lake-Dr,-San-Antonio,-TX-78244","5602 Crater Lake Dr, San Antonio, TX 78244",5602 Crater Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"6903-Twin-Lake-Dr,-San-Antonio,-TX-78244","6903 Twin Lake Dr, San Antonio, TX 78244",6903 Twin Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"6915-Trail-Lk,-San-Antonio,-TX-78244","6915 Trail Lk, San Antonio, TX 78244",6915 Trail Lk,,San Antonio,TX,48,78244,Bexar,029
-"6906-Indian-Lake-Dr,-San-Antonio,-TX-78244","6906 Indian Lake Dr, San Antonio, TX 78244",6906 Indian Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"6930-Trail-Lk,-San-Antonio,-TX-78244","6930 Trail Lk, San Antonio, TX 78244",6930 Trail Lk,,San Antonio,TX,48,78244,Bexar,029
-"6838-Twin-Lake-Dr,-San-Antonio,-TX-78244","6838 Twin Lake Dr, San Antonio, TX 78244",6838 Twin Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"5524-Lochmoor,-San-Antonio,-TX-78244","5524 Lochmoor, San Antonio, TX 78244",5524 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"6922-Moon-Lake-Dr,-San-Antonio,-TX-78244","6922 Moon Lake Dr, San Antonio, TX 78244",6922 Moon Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"6822-Still-Lk,-San-Antonio,-TX-78244","6822 Still Lk, San Antonio, TX 78244",6822 Still Lk,,San Antonio,TX,48,78244,Bexar,029
-"6906-Trail-Lk,-San-Antonio,-TX-78244","6906 Trail Lk, San Antonio, TX 78244",6906 Trail Lk,,San Antonio,TX,48,78244,Bexar,029
-"7006-Atherton,-San-Antonio,-TX-78244","7006 Atherton, San Antonio, TX 78244",7006 Atherton,,San Antonio,TX,48,78244,Bexar,029
-"5402-Park-Lk,-San-Antonio,-TX-78244","5402 Park Lk, San Antonio, TX 78244",5402 Park Lk,,San Antonio,TX,48,78244,Bexar,029
-"5315-Lakebend-East-Dr,-San-Antonio,-TX-78244","5315 Lakebend East Dr, San Antonio, TX 78244",5315 Lakebend East Dr,,San Antonio,TX,48,78244,Bexar,029
-"5511-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5511 Lochmoor, Apt 1, San Antonio, TX 78244",5511 Lochmoor,Apt 1,San Antonio,TX,48,78244,Bexar,029
-"5709-Lochmoor,-San-Antonio,-TX-78244","5709 Lochmoor, San Antonio, TX 78244",5709 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"5717-Lochmoor,-San-Antonio,-TX-78244","5717 Lochmoor, San Antonio, TX 78244",5717 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"5629-Lochmoor,-San-Antonio,-TX-78244","5629 Lochmoor, San Antonio, TX 78244",5629 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"5519-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5519 Lochmoor, Apt 1, San Antonio, TX 78244",5519 Lochmoor,Apt 1,San Antonio,TX,48,78244,Bexar,029
-"5515-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5515 Lochmoor, Apt 2, San Antonio, TX 78244",5515 Lochmoor,Apt 2,San Antonio,TX,48,78244,Bexar,029
-"7014-Atherton,-San-Antonio,-TX-78244","7014 Atherton, San Antonio, TX 78244",7014 Atherton,,San Antonio,TX,48,78244,Bexar,029
-"7012-Atherton,-San-Antonio,-TX-78244","7012 Atherton, San Antonio, TX 78244",7012 Atherton,,San Antonio,TX,48,78244,Bexar,029
-"6906-Moon-Lake-Dr,-San-Antonio,-TX-78244","6906 Moon Lake Dr, San Antonio, TX 78244",6906 Moon Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"6914-Indian-Lake-Dr,-San-Antonio,-TX-78244","6914 Indian Lake Dr, San Antonio, TX 78244",6914 Indian Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"6835-Indian-Lake-Dr,-San-Antonio,-TX-78244","6835 Indian Lake Dr, San Antonio, TX 78244",6835 Indian Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"5515-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5515 Lochmoor, Apt 1, San Antonio, TX 78244",5515 Lochmoor,Apt 1,San Antonio,TX,48,78244,Bexar,029
-"5505-Roanwood,-San-Antonio,-TX-78244","5505 Roanwood, San Antonio, TX 78244",5505 Roanwood,,San Antonio,TX,48,78244,Bexar,029
-"5532-Lochmoor,-San-Antonio,-TX-78244","5532 Lochmoor, San Antonio, TX 78244",5532 Lochmoor,,San Antonio,TX,48,78244,Bexar,029
-"7028-Atherton,-San-Antonio,-TX-78244","7028 Atherton, San Antonio, TX 78244",7028 Atherton,,San Antonio,TX,48,78244,Bexar,029
-"6827-Blue-Lake-Dr,-San-Antonio,-TX-78244","6827 Blue Lake Dr, San Antonio, TX 78244",6827 Blue Lake Dr,,San Antonio,TX,48,78244,Bexar,029
-"6902-Quail-Lk,-San-Antonio,-TX-78244","6902 Quail Lk, San Antonio, TX 78244",6902 Quail Lk,,San Antonio,TX,48,78244,Bexar,029
+id,address,city,state,state_fips,zip_code,county,county_fips,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built
+"5509-Roanwood,-San-Antonio,-TX-78244","5509 Roanwood, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477359,-98.349687,Multi-Family,4.0,2.0,1973.0,1985.0
+"5528-Lochmoor,-San-Antonio,-TX-78244","5528 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477808,-98.350542,Single Family,2.0,1.5,912.0,
+"5523-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5523 Lochmoor, Apt 2, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477526,-98.350809,Multi-Family,2.0,1.0,800.0,1984.0
+"5721-Lochmoor,-San-Antonio,-TX-78244","5721 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.479965,-98.350807,Apartment,2.0,2.0,,
+"5519-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5519 Lochmoor, Apt 2, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.47746,-98.350786,Multi-Family,2.0,1.0,800.0,1984.0
+"5527-Lochmoor,---2,-San-Antonio,-TX-78244","5527 Lochmoor, # 2, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.47776,-98.350808,,,,,
+"5520-Lochmoor,-San-Antonio,-TX-78244","5520 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477456,-98.350543,Single Family,2.0,2.0,983.0,
+"5512-Lochmoor,-San-Antonio,-TX-78244","5512 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477105,-98.350544,Apartment,2.0,2.0,970.0,1985.0
+"5516-Lochmoor,-San-Antonio,-TX-78244","5516 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477293,-98.350543,Apartment,2.0,1.0,850.0,
+"5511-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5511 Lochmoor, Apt 2, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.4769,-98.350809,Single Family,2.0,1.0,800.0,
+"5705-Lochmoor,-San-Antonio,-TX-78244","5705 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477,-98.350546,,,,,
+"7002-Atherton,-San-Antonio,-TX-78244","7002 Atherton, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476766,-98.350547,,,,,
+"5713-Lochmoor,-San-Antonio,-TX-78244","5713 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476895,-98.350546,,,,,
+"7024-Atherton,-San-Antonio,-TX-78244","7024 Atherton, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476968,-98.349631,,,,,
+"5310-Lake,-Golden,-San-Antonio,-TX-78244","5310 Lake, Golden, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.474259,-98.351379,Single Family,2.0,1.5,1200.0,1986.0
+"5523-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5523 Lochmoor, Apt 1, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477526,-98.350809,Multi-Family,2.0,1.0,800.0,1984.0
+"5322-Shadow-Lake-Dr,-San-Antonio,-TX-78244","5322 Shadow Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.474965,-98.352755,Single Family,3.0,1.5,1063.0,1972.0
+"5403-Park-Lk,-San-Antonio,-TX-78244","5403 Park Lk, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.475701,-98.349207,Single Family,3.0,1.5,1851.0,1985.0
+"6830-Blue-Lake-Dr,-San-Antonio,-TX-78244","6830 Blue Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.475708,-98.353449,Single Family,3.0,2.0,1039.0,1972.0
+"6826-Blue-Lake-Dr,-San-Antonio,-TX-78244","6826 Blue Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.475714,-98.353626,Single Family,3.0,1.5,1140.0,1972.0
+"5602-Crater-Lake-Dr,-San-Antonio,-TX-78244","5602 Crater Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.478096,-98.351129,Single Family,4.0,2.5,1780.0,1974.0
+"6903-Twin-Lake-Dr,-San-Antonio,-TX-78244","6903 Twin Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476907,-98.352109,Single Family,3.0,2.0,1346.0,1973.0
+"6915-Trail-Lk,-San-Antonio,-TX-78244","6915 Trail Lk, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.475366,-98.350641,Single Family,3.0,2.0,1714.0,1984.0
+"6906-Indian-Lake-Dr,-San-Antonio,-TX-78244","6906 Indian Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477209,-98.352111,Single Family,4.0,2.0,1810.0,1973.0
+"6930-Trail-Lk,-San-Antonio,-TX-78244","6930 Trail Lk, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.475264,-98.349627,Single Family,3.0,2.0,1232.0,1985.0
+"6838-Twin-Lake-Dr,-San-Antonio,-TX-78244","6838 Twin Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476463,-98.352911,Single Family,4.0,2.0,1217.0,1972.0
+"5524-Lochmoor,-San-Antonio,-TX-78244","5524 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477641,-98.350542,Multi-Family,2.0,1.0,912.0,1985.0
+"6922-Moon-Lake-Dr,-San-Antonio,-TX-78244","6922 Moon Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477939,-98.351481,Single Family,4.0,2.5,1780.0,1974.0
+"6822-Still-Lk,-San-Antonio,-TX-78244","6822 Still Lk, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.473761,-98.351954,Single Family,3.0,2.0,1744.0,1987.0
+"6906-Trail-Lk,-San-Antonio,-TX-78244","6906 Trail Lk, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.474859,-98.35063,Single Family,3.0,2.5,1730.0,1985.0
+"7006-Atherton,-San-Antonio,-TX-78244","7006 Atherton, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476727,-98.350553,,,,,
+"5402-Park-Lk,-San-Antonio,-TX-78244","5402 Park Lk, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.475501,-98.349063,,,,,
+"5315-Lakebend-East-Dr,-San-Antonio,-TX-78244","5315 Lakebend East Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.474546,-98.351172,Single Family,3.0,2.0,1572.0,1984.0
+"5511-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5511 Lochmoor, Apt 1, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.4769,-98.350809,Apartment,2.0,1.0,3202.0,1984.0
+"5709-Lochmoor,-San-Antonio,-TX-78244","5709 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476963,-98.350546,,,,,
+"5717-Lochmoor,-San-Antonio,-TX-78244","5717 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476839,-98.350546,Condo,2.0,1.0,987.0,
+"5629-Lochmoor,-San-Antonio,-TX-78244","5629 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.478007,-98.350543,Condo,2.0,1.0,825.0,
+"5519-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5519 Lochmoor, Apt 1, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.47746,-98.350786,Multi-Family,2.0,1.0,800.0,1984.0
+"5515-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5515 Lochmoor, Apt 2, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477107,-98.350814,Multi-Family,2.0,1.0,800.0,1984.0
+"7014-Atherton,-San-Antonio,-TX-78244","7014 Atherton, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476797,-98.350174,,,,,
+"7012-Atherton,-San-Antonio,-TX-78244","7012 Atherton, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476787,-98.350255,,,,,
+"6906-Moon-Lake-Dr,-San-Antonio,-TX-78244","6906 Moon Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.47796,-98.352429,Single Family,3.0,2.0,1630.0,1973.0
+"6914-Indian-Lake-Dr,-San-Antonio,-TX-78244","6914 Indian Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477213,-98.351635,Single Family,3.0,2.0,1516.0,1973.0
+"6835-Indian-Lake-Dr,-San-Antonio,-TX-78244","6835 Indian Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477662,-98.353047,Single Family,3.0,2.0,1795.0,1972.0
+"5515-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5515 Lochmoor, Apt 1, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477107,-98.350814,Multi-Family,2.0,1.0,800.0,
+"5505-Roanwood,-San-Antonio,-TX-78244","5505 Roanwood, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477157,-98.349687,Multi-Family,2.0,1.0,987.0,
+"5532-Lochmoor,-San-Antonio,-TX-78244","5532 Lochmoor, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.477966,-98.350541,Multi-Family,2.0,1.0,912.0,1985.0
+"7028-Atherton,-San-Antonio,-TX-78244","7028 Atherton, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476808,-98.349434,Single Family,4.0,2.0,1824.0,
+"6827-Blue-Lake-Dr,-San-Antonio,-TX-78244","6827 Blue Lake Dr, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.476149,-98.353769,Single Family,3.0,1.5,1176.0,1972.0
+"6902-Quail-Lk,-San-Antonio,-TX-78244","6902 Quail Lk, San Antonio, TX 78244",San Antonio,TX,48,78244,Bexar,029,29.474233,-98.350186,Single Family,3.0,2.0,1592.0,1985.0
