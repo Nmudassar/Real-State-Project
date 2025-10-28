@@ -1,6 +1,6 @@
-from extract import extract_properties
-from transform2 import transform
-from load2 import load_t0_db
+from src.extract import extract_properties
+from src.transform2 import transform
+from src.load2 import load_t0_db
 
 def run_pipeline():
     print("Starting ETL pipeline run")

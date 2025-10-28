@@ -26,7 +26,7 @@ def extract_properties(city='San Antonio', state='TX'):
 
         return file_name    
 if __name__ == "__main__":
-    # ✅ Just add the 3 cities here (like your instructor said)
+    #  Just add the 3 cities here 
     cities = [
         ("San Antonio", "TX"),
         ("Houston", "TX"),
