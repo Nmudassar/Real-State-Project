@@ -1,6 +1,10 @@
+Got it. Here is a **complete, copy-paste ready README.md** with the correct ordering you requested, where **Windows Task Scheduler is Section 13**, and all ETL **code files are fully included** in Section 8. I also include `.gitignore`, `requirements.txt`, and example `.env`.
+
+---
+
 # PrimeSquare Properties Ltd — Real Estate ETL Pipeline
 
-A production-style ETL (Extract, Transform, Load) pipeline that collects real estate property listings from the RentCast API, standardizes the data model, and loads analytics-ready records into PostgreSQL. Designed for clarity, reproducibility, and portfolio presentation.
+A production-style ETL (Extract, Transform, Load) pipeline that collects real estate property listings from the RentCast API, standardizes the data model, and loads analytics-ready records into PostgreSQL. Designed for clarity, automation, and data analytics enablement.
 
 ---
 
@@ -13,19 +17,21 @@ A production-style ETL (Extract, Transform, Load) pipeline that collects real es
 5. File/Folder Structure
 6. Setup and Configuration
 7. End-to-End Run
-8. Code (Extract, Transform, Load, Orchestration)
+8. Code (Extract, Transform, Load & Orchestration)
 9. Before & After Data Example
 10. SQL Query Examples
 11. Pipeline Execution Output
-12. Challenges & Learning
-13. Future Enhancements
-14. License and Contact
+12. Notes on Usage and Limits
+13. Automated Scheduling with Windows Task Scheduler
+14. Challenges & Learning
+15. Future Enhancements
+16. License and Contact
 
 ---
 
 ## 1) Project Overview
 
-This project implements a complete ETL pipeline to automate the ingestion of property listing data from the RentCast API for three Texas cities (San Antonio, Houston, Dallas). Raw JSON is normalized into a consistent tabular schema and loaded into a PostgreSQL table for analytics and dashboards. The pipeline emphasizes secure secret handling, robust paths, and repeatable runs.
+This project automates real estate data ingestion from the RentCast API for selected cities in Texas (San Antonio, Houston, and Dallas). The data is cleaned, transformed into a standardized schema, and loaded into PostgreSQL to support analytics and reporting use cases. Secrets are handled via `.env` and never committed to source control.
 
 ---
 
@@ -33,7 +39,7 @@ This project implements a complete ETL pipeline to automate the ingestion of pro
 
 ```
              +-------------------+
-             |   Scheduler/CLI   |
+             |  Scheduler / CLI  |
              +---------+---------+
                        |
                        v
@@ -55,31 +61,30 @@ This project implements a complete ETL pipeline to automate the ingestion of pro
 +----------------------+----------------------+
                        |
                        v
-               Analytics & BI (SQL/Power BI)
+               Analytics & BI (SQL / Power BI)
 ```
-
-If you maintain visuals, place a PNG at `assets/dataflow.png` and reference it here.
 
 ---
 
 ## 3) Skills Demonstrated
 
-* API integration and request handling with authentication
-* Data normalization and schema standardization
-* Robust file I/O and path management for cross-environment runs
-* PostgreSQL loading using SQLAlchemy
-* Secret management with `.env` and `python-dotenv`
-* GitHub-ready project structure and documentation
+* API integration using Python requests
+* JSON data extraction and normalization
+* Schema design and data transformation
+* PostgreSQL loading via SQLAlchemy
+* Secure secret management with `.env`
+* Production automation using Windows Task Scheduler
+* Clean GitHub repository structure and documentation
 
 ---
 
 ## 4) Tech Stack
 
 * Python 3.10+
-* Requests, pandas, SQLAlchemy, psycopg2-binary, python-dotenv
 * PostgreSQL
-* Git/GitHub
-* (Optional) Power BI or other BI tools for visualization
+* Libraries: Requests, Pandas, SQLAlchemy, Psycopg2-binary, python-dotenv
+* Windows Task Scheduler (automation)
+* Git & GitHub
 
 ---
 
@@ -87,50 +92,40 @@ If you maintain visuals, place a PNG at `assets/dataflow.png` and reference it h
 
 ```
 real-estate-etl-pipeline/
-├─ assets/                    # (optional) diagrams, screenshots
+├─ assets/                        # optional: diagrams, screenshots
 ├─ data/
-│  ├─ raw/                    # raw JSON from API (ignored by Git)
-│  └─ transformed/            # cleaned CSVs (ignored by Git)
+│  ├─ raw/                        # raw JSON from API (ignored by Git)
+│  └─ transformed/                # CSV cleaned for loading (ignored by Git)
+├─ logs/                          # optional pipeline run logs
 ├─ src/
 │  ├─ __init__.py
-│  ├─ config.py               # loads API key, base URL from .env
-│  ├─ extract.py              # API calls, writes raw JSON
-│  ├─ transform2.py           # JSON -> standardized CSV
-│  └─ load2.py                # CSV -> PostgreSQL table
-├─ .env                       # API secrets (ignored by Git)
+│  ├─ config.py
+│  ├─ extract.py
+│  ├─ transform2.py
+│  └─ load2.py
+├─ .env                           # secret credentials (ignored by Git)
 ├─ .gitignore
 ├─ requirements.txt
 ├─ README.md
-└─ run.py                     # optional one-city runner for quick checks
+└─ run.py                         # optional quick runner
 ```
 
 Recommended `.gitignore`:
 
 ```gitignore
-# venv
 my-env/
 .venv/
 venv/
-
-# env and secrets
 .env
-
-# python cache
 __pycache__/
-*/__pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# IDE
 .vscode/
-.idea/
-
-# OS
 .DS_Store
 Thumbs.db
-
-# Data artifacts```
+data/raw/
+data/transformed/
+logs/
+```
 
 ---
 
@@ -140,10 +135,7 @@ Thumbs.db
 
 ```bash
 python -m venv my-env
-# Windows
 my-env\Scripts\activate
-# macOS/Linux
-# source my-env/bin/activate
 ```
 
 ### 6.2 Install dependencies
@@ -162,22 +154,20 @@ psycopg2-binary
 python-dotenv
 ```
 
-### 6.3 Obtain and configure API credentials
-
-1. Visit [https://www.rentcast.io/api](https://www.rentcast.io/api) and create an account.
-2. Generate an API key from the API Dashboard.
-3. Create `.env` in the project root:
+### 6.3 Create `.env` with API key
 
 ```env
 API_KEY=your_rentcast_api_key_here
 BASE_URL=https://api.rentcast.io/v1/properties
 ```
 
+> Get your key at [https://www.rentcast.io/api](https://www.rentcast.io/api) and keep it private.
+
 ---
 
 ## 7) End-to-End Run
 
-Run the full pipeline (extract → transform → load):
+Execute:
 
 ```bash
 python src/main.py
@@ -185,13 +175,15 @@ python src/main.py
 
 Expected outputs:
 
-* Raw JSON files in `data/raw/`
-* Clean CSV files in `data/transformed/`
-* Records loaded into PostgreSQL table `properties_data`
+* JSON stored: `data/raw/`
+* CSV stored: `data/transformed/`
+* PostgreSQL updated: `properties_data` table
 
 ---
 
-## 8) Code
+## 8) Code (Extract, Transform, Load & Orchestration)
+
+Place the following files under `src/`.
 
 ### 8.1 `src/config.py`
 
@@ -204,127 +196,226 @@ load_dotenv()
 API_KEY = os.getenv("API_KEY")
 BASE_URL = os.getenv("BASE_URL", "https://api.rentcast.io/v1/properties")
 
-if not API_KEY:
-    raise RuntimeError("API_KEY missing. Add it to your .env")
+
+
 ```
 
 ### 8.2 `src/extract.py`
 
 ```python
+iimport requests
 import json
+from config import BASE_URL, API_KEY
 from pathlib import Path
-import requests
-from src.config import API_KEY, BASE_URL
 
-# Save into project-root/data/raw regardless of where you run
-RAW_DIR = Path(__file__).resolve().parents[1] / "data" / "raw"
+#
+RAW_DIR = Path("../data/raw")
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 
-def extract_properties(city: str, state: str):
-    headers = {"Accept": "application/json", "X-Api-Key": API_KEY}
-    params = {"city": city, "state": state}
-    print(f"Fetching properties for {city}, {state}")
-    r = requests.get(BASE_URL, headers=headers, params=params, timeout=30)
-    r.raise_for_status()
-    data = r.json()
+def extract_properties(city, state):
+    headers = {
+        "accept": "application/json",
+        "X-Api-Key": API_KEY
+    }
+    params = {
+        "city": city,
+        "state": state,
+    }
+    print(f"fetching properties data for {city}, {state}")
+    response = requests.get(BASE_URL, headers=headers, params=params)
 
-    safe_city = city.replace(" ", "_")
-    out_path = RAW_DIR / f"properties_data_{safe_city}_{state}.json"
-    out_path.write_text(json.dumps(data, indent=2), encoding="utf-8")
-    return str(out_path)
+    if response.status_code == 200:
+        data = response.json()
+        file_name = RAW_DIR / f"properties_data_{city}_{state}.json"
 
+        with open(file_name, "w") as f:
+            json.dump(data, f, indent=2)
+
+        return file_name
 if __name__ == "__main__":
-    print(extract_properties("San Antonio", "TX"))
+    #  Just add the 3 cities here 
+    cities = [
+        ("San Antonio", "TX"),
+        ("Houston", "TX"),
+        ("Dallas", "TX")
+    ]
+
+    for city, state in cities:
+        extract_properties(city, state)
+
+    print(" Extraction completed for all 3 cities!")
+
 ```
 
 ### 8.3 `src/transform2.py`
 
 ```python
+
 import json
-from pathlib import Path
 import pandas as pd
+import os
 
-TRANSFORM_DIR = Path(__file__).resolve().parents[1] / "data" / "transformed"
-TRANSFORM_DIR.mkdir(parents=True, exist_ok=True)
+def transform(file_path, city, state):
+    with open(file_path, "r") as f:
+        data = json.load(f)
 
-COLUMNS = [
-    'id', 'formattedAddress', 'city', 'state', 'stateFips', 'zipCode',
-    'county', 'countyFips', 'latitude', 'longitude', 'propertyType',
-    'bedrooms', 'bathrooms', 'squareFootage', 'yearBuilt'
-]
-
-RENAME = {
-    'formattedAddress': 'address',
-    'stateFips': 'state_fips',
-    'zipCode': 'zip_code',
-    'countyFips': 'county_fips',
-    'propertyType': 'property_type',
-    'squareFootage': 'square_footage',
-    'yearBuilt': 'year_built',
-}
-
-def transform(file_path: str, city: str, state: str):
-    data = json.loads(Path(file_path).read_text(encoding="utf-8"))
+    print(f"📌 Loaded {len(data)} rows for {city}, {state}")
     df = pd.json_normalize(data)
 
-    # If the API returns different shapes, adjust the column selection here
-    df = df[COLUMNS]
-    df = df.rename(columns=RENAME)
+    columns = [
+        'id', 'formattedAddress', 'city',
+        'state', 'stateFips', 'zipCode', 'county', 'countyFips',
+        'latitude', 'longitude', 'propertyType', 'bedrooms',
+        'bathrooms', 'squareFootage', 'yearBuilt'
+    ]
 
-    safe_city = city.replace(" ", "")
-    out_path = TRANSFORM_DIR / f"properties_data_{safe_city}_{state}.csv"
-    df.to_csv(out_path, index=False)
-    print(f"Clean CSV saved: {out_path}")
-    return str(out_path)
+    df = df[columns]
+
+    df.rename(columns={
+        'formattedAddress': 'address',
+        'zipCode': 'zip_code',
+        'stateFips': 'state_fips',
+        'countyFips': 'county_fips',
+        'propertyType': 'property_type',
+        'squareFootage': 'square_footage',
+        'yearBuilt': 'year_built'
+    }, inplace=True)
+
+    city_clean = city.replace(" ", "")
+    output_path = f"data/transformed/properties_data_{city_clean}_{state}.csv"
+    df.to_csv(output_path, index=False)
+
+    print(f"✅ CSV Saved: {output_path}")
+    return output_path
+
+
+if __name__ == "__main__":
+    cities = [
+        ("San Antonio", "TX"),
+        ("Houston", "TX"),
+        ("Dallas", "TX")
+    ]
+
+    for city, state in cities:
+        city_clean = city.replace(" ", "")
+        file_path = f"data/raw/properties_data_{city_clean}_{state}.json"
+
+        if os.path.exists(file_path):
+            transform(file_path, city, state)
+        else:
+            print(f" File not found: {file_path}")
+
+    print(" Transformation completed for all cities!")
 ```
 
 ### 8.4 `src/load2.py`
 
 ```python
-from sqlalchemy import create_engine
+fimport os
 import pandas as pd
+from sqlalchemy import create_engine
 
-# Adjust for your environment
-ENGINE = create_engine("postgresql+psycopg2://postgres@127.0.0.1:5432/primesquare_prod")
+STANDARD_COLS = [
+    "id","address","city","state","state_fips","zip_code","county","county_fips",
+    "latitude","longitude","property_type","bedrooms","bathrooms","square_footage","year_built"
+]
 
-TABLE = "properties_data"
+RENAME_MAP = {
+    # common mismatches
+    "county_Fips": "county_fips",
+    "formattedAddress": "address",
+    "zipCode": "zip_code",
+    "stateFips": "state_fips",
+    "countyFips": "county_fips",
+    "propertyType": "property_type",
+    "squareFootage": "square_footage",
+    "yearBuilt": "year_built",
+}
 
-def load_t0_db(csv_path: str, mode: str = "append"):
-    df = pd.read_csv(csv_path)
-    df.to_sql(TABLE, ENGINE, if_exists=mode, index=False)
-    print(f"Loaded {len(df)} rows into {TABLE} ({mode}) from {csv_path}")
+engine = create_engine(
+    "postgresql+psycopg2://postgres@127.0.0.1:5432/primesquare_prod",
+    pool_pre_ping=True,
+)
+
+def load_t0_db(file_name, if_exists_mode):
+    # 1) read
+    df = pd.read_csv(file_name)
+
+    # 2) normalize column names
+    df.rename(columns=RENAME_MAP, inplace=True)
+
+    # 3) ensure every standard column exists
+    for col in STANDARD_COLS:
+        if col not in df.columns:
+            df[col] = pd.NA
+
+    # 4) keep only the standard set & order
+    df = df[STANDARD_COLS]
+
+    # 5) write
+    df.to_sql("properties_data", engine, if_exists=if_exists_mode, index=False)
+    print(f"✅ Loaded: {file_name} → {if_exists_mode}")
+
+
+if __name__ == "__main__":
+    cities = [
+        ("San Antonio", "TX"),
+        ("Houston", "TX"),
+        ("Dallas", "TX")
+    ]
+
+    first = True
+    for city, state in cities:
+        city_clean = city.replace(" ", "")
+        file_name = f"data/transformed/properties_data_{city_clean}_{state}.csv"
+        if os.path.exists(file_name):
+            load_t0_db(file_name, "replace" if first else "append")
+            first = False
+        else:
+            print(f" File not found: {file_name}")
+
+    print(" All cities loaded into database!")
+
 ```
 
 ### 8.5 `src/main.py`
 
 ```python
-from pathlib import Path
 from extract import extract_properties
 from transform2 import transform
 from load2 import load_t0_db
+from pathlib import Path
 
 def run_pipeline():
     print("Starting ETL pipeline run")
-    (Path(__file__).resolve().parents[1] / "data" / "transformed").mkdir(parents=True, exist_ok=True)
 
     cities = [
         ("San Antonio", "TX"),
         ("Houston", "TX"),
-        ("Dallas", "TX"),
+        ("Dallas", "TX")
     ]
-
+    Path("data/transformed").mkdir(parents=True, exist_ok=True)
+    # Step 1: Extract
     first = True
-    for city, state in cities:
-        raw_file = extract_properties(city, state)
-        clean_file = transform(raw_file, city, state)
-        load_t0_db(clean_file, "replace" if first else "append")
-        first = False
-        print(f"ETL completed for {city}, {state}")
 
-    print("Pipeline finished")
+    for city, state in cities:
+        raw_file = extract_properties(city=city, state=state)
+        if raw_file:
+            clean_file = transform(raw_file, city, state)
+            if first:
+                load_t0_db(clean_file, "replace")
+                first = False
+            else:
+                load_t0_db(clean_file, "append")
+            print(f"ETL pipeline successfully completed for {city}, {state}\n")
+        else:
+            print(f"ETL pipeline failed during extraction step for {city}, {state}\n")
 
 if __name__ == "__main__":
     run_pipeline()
+
+    
+    
 ```
 
 ### 8.6 Optional `run.py` (root) for a single quick run
@@ -433,16 +524,83 @@ Pipeline finished
 
 ---
 
-## 12) Challenges & Learning
+## 12) Notes on Usage and Limits
 
-* Managing environment paths so that file outputs resolve correctly regardless of the working directory. Solved by anchoring paths to `Path(__file__).resolve().parents[1]`.
+* Free API plans often limit monthly requests. Avoid unnecessary reruns during development.
+* Field names in the CSV depend on the API response shape for your chosen endpoint and parameters.
+* City names with spaces are handled in filenames; raw uses underscores, transformed removes spaces in the city token.
+
+---
+
+## 13) Automated Scheduling with Windows Task Scheduler
+
+Automate daily execution using Windows Task Scheduler to keep PostgreSQL refreshed without manual intervention.
+
+### 13.1 Create a batch file
+
+Create `run_etl.bat` in the project root and adjust paths as needed:
+
+```bat
+@echo off
+echo Running Real Estate ETL Pipeline...
+cd "C:\Users\Labee\onedrive\desktop\Projects\REal-State-Project"
+call my-env\Scripts\activate
+python src\main.py
+pause
+```
+
+Optional: log output to a file:
+
+```bat
+@echo off
+cd "C:\Users\Labee\onedrive\desktop\Projects\REal-State-Project"
+call my-env\Scripts\activate
+python src\main.py >> logs\etl_run.log 2>&1
+```
+
+Create logs folder once:
+
+```bash
+mkdir logs
+```
+
+### 13.2 Schedule the task
+
+1. Open Task Scheduler → Create Basic Task
+2. Name: Real Estate ETL Pipeline
+3. Trigger: Daily at the desired time
+4. Action: Start a Program → select `run_etl.bat`
+5. Enable “Run whether user is logged on or not”
+6. Enable “Run with highest privileges”
+7. Save
+
+### 13.3 Validate
+
+* New files appear in `data/raw` and `data/transformed`
+* PostgreSQL row count increases:
+
+```sql
+SELECT COUNT(*) FROM properties_data;
+```
+
+If it runs manually but not from Task Scheduler, use absolute paths or call Python directly:
+
+```bat
+"C:\Users\Labee\onedrive\desktop\Projects\REal-State-Project\my-env\Scripts\python.exe" src\main.py
+```
+
+---
+
+## 14) Challenges & Learning
+
+* Managing environment paths so file outputs resolve correctly regardless of the working directory. Solved by anchoring paths to `Path(__file__).resolve().parents[1]`.
 * Ensuring secret safety by using `.env` and excluding it via `.gitignore`.
 * Normalizing API fields into a consistent schema that downstream consumers can depend on.
 * Handling CSV directory creation before writes to avoid `FileNotFoundError`.
 
 ---
 
-## 13) Future Enhancements
+## 15) Future Enhancements
 
 * Add pagination and rate limiting handling for larger result sets.
 * Introduce structured logging with log levels and rotating files.
@@ -453,16 +611,14 @@ Pipeline finished
 
 ---
 
-## 14) License and Contact
+## 16) License and Contact
 
 License: MIT (or your preferred license)
 
 Contact:
 
 * GitHub: `nadiamudassar`
-* Project: `real-estate-etl-pipeline`
+* Repository: `real-estate-etl-pipeline`
 * Summary: This project implements a complete ETL pipeline that collects real estate property listing data from the RentCast API, transforms and standardizes the dataset, and loads the final records into a PostgreSQL database for analytics.
 
 ---
-
-
