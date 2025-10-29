@@ -1,4 +1,3 @@
-Got it. Here is a **complete, copy-paste ready README.md** with the correct ordering you requested, where **Windows Task Scheduler is Section 13**, and all ETL **code files are fully included** in Section 8. I also include `.gitignore`, `requirements.txt`, and example `.env`.
 
 ---
 
