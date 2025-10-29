@@ -1,6 +1,7 @@
-from src.extract import extract_properties
-from src.transform2 import transform
-from src.load2 import load_t0_db
+from extract import extract_properties
+from transform2 import transform
+from load2 import load_t0_db
+from pathlib import Path
 
 def run_pipeline():
     print("Starting ETL pipeline run")
@@ -9,9 +10,9 @@ def run_pipeline():
         ("San Antonio", "TX"),
         ("Houston", "TX"),
         ("Dallas", "TX")
-        ]
+    ]
+    Path("data/transformed").mkdir(parents=True, exist_ok=True)
     # Step 1: Extract
-
     first = True
 
     for city, state in cities:
